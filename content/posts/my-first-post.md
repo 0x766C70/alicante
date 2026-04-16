@@ -1,4 +1,11 @@
-+++
-date = '2026-04-16T09:07:44Z'
-title = 'My First Post about sangria'
-+++
+---
+title: "Best Sangria in town"
+date: 2023-08-14
+draft: false
+summary: "Where to find the best Sangria in town"
+tags: ["sangria"]
+---
+
+## Tips
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi nibh nisl, vulputate eu lacus vitae, maximus molestie libero. Vestibulum laoreet, odio et sollicitudin sollicitudin, quam ligula tempus urna, sed sagittis eros eros ac felis. In tristique tortor vitae lacinia commodo. Mauris venenatis ultrices purus nec fermentum. Nunc sit amet aliquet metus. Morbi nisl felis, gravida ac consequat vitae, blandit eu libero. Curabitur porta est in dui elementum porttitor. Maecenas fermentum, tortor ac feugiat fringilla, orci sem sagittis massa, a congue risus ipsum vel massa. Aliquam sit amet nunc vulputate, facilisis neque in, faucibus nisl.
