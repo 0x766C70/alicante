@@ -1,3 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://0x766c70.github.io/alicante/'
 locale = 'en-us'
-title = 'My New Hugo Project'
+title = 'Alicante by P&P'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
