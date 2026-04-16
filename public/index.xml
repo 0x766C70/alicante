@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alicante by P&amp;P</title>
-    <link>http://localhost:1313/alicante/</link>
+    <link>https://0x766c70.github.io/alicante/</link>
     <description>Recent content on Alicante by P&amp;P</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 16 Apr 2026 09:07:44 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/alicante/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0x766c70.github.io/alicante/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post about sangria</title>
-      <link>http://localhost:1313/alicante/posts/my-first-post/</link>
+      <link>https://0x766c70.github.io/alicante/posts/my-first-post/</link>
       <pubDate>Thu, 16 Apr 2026 09:07:44 +0000</pubDate>
-      <guid>http://localhost:1313/alicante/posts/my-first-post/</guid>
+      <guid>https://0x766c70.github.io/alicante/posts/my-first-post/</guid>
       <description></description>
     </item>
   </channel>
