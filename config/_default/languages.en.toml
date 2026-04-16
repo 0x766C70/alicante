@@ -15,12 +15,12 @@ title = "Azul"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
-   name = "la Mifa"
+   name = "Alicante"
    email = "vlp@fdn.fr"
-#   image = "img/blowfish_logo.png"
+   image = "img/profile.png"
 #   imageQuality = 96
 #   headline = "I'm only human"
-#   bio = "A little bit about you"
+   bio = "about Alicante, the see and sangrias"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
