@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "Alicante y MAS - Mar, Arroz, Sangria"
+title = "Mar, Arroz, Sangria"
 
 [params]
   displayName = "EN"
