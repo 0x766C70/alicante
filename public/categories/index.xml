@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Alicante by P&amp;P</title>
-    <link>https://0x766c70.github.io/alicante/categories/</link>
-    <description>Recent content in Categories on Alicante by P&amp;P</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="https://0x766c70.github.io/alicante/categories/index.xml" rel="self" type="application/rss+xml" />
+    <title>Categories on Blowfish</title>
+    <link>http://localhost:1313/alicante/categories/</link>
+    <description>Recent content in Categories on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2026 </copyright>
+    <atom:link href="http://localhost:1313/alicante/categories/index.xml" rel="self" type="application/rss+xml" />
+    
   </channel>
 </rss>
