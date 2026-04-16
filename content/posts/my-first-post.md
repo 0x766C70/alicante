@@ -1,11 +1,11 @@
----
++++
 title: "The Quest for the Perfect Sangria in Alicante"
 date: 2026-04-16T20:15:00+02:00
 draft: false
 author: "vlp"
 tags: ["travel", "alicante", "sangria", "spain"]
 description: "Forget NixOS for a moment. We are hunting for the holy grail of fruit-infused wine in Alicante."
----
++++
 
 ## Sun, Sea, and Sangria
 
