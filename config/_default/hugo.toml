@@ -6,6 +6,7 @@ theme = "blowfish" # UNCOMMENT THIS LINE
 baseURL = "https://0x766c70.github.io/alicante/"
 defaultContentLanguage = "en"
 
+homepage.showRecent = true
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
 enableRobotsTXT = true
