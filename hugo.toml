@@ -1,6 +1,6 @@
 baseURL = 'https://0x766c70.github.io/alicante/'
 locale = 'en-us'
-title = 'Alicante by P&P'
+title = 'Alicante Azul by P&P'
 theme = 'ananke'
 [caches]
   [caches.images]
