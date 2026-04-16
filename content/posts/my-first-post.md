@@ -1,12 +1,10 @@
 +++
-title: "The Quest for the Perfect Sangria in Alicante"
-date: 2026-04-16T20:15:00+02:00
-draft: false
-author: "vlp"
-tags: ["travel", "alicante", "sangria", "spain"]
-description: "Forget NixOS for a moment. We are hunting for the holy grail of fruit-infused wine in Alicante."
+title = "The Quest for the Perfect Sangria in Alicante"
+date = 2026-04-16T20:15:00+02:00
+draft = false
+tags = ["travel", "alicante", "sangria", "spain"]
+description = "Forget NixOS for a moment. We are hunting for the holy grail of fruit-infused wine in Alicante."
 +++
-
 ## Sun, Sea, and Sangria
 
 After spending too many hours staring at terminal outputs, it was time to touch some grass—or in this case, some Mediterranean sand. Alicante is famous for many things: the Santa Bárbara Castle, the Explanada de España, and, most importantly, the liquid gold known as **Sangria**.
@@ -17,7 +15,7 @@ But not all Sangria is created equal. Some taste like sweetened grape juice with
 
 *Caption: The only "dependency" we want to install today.*
 
-### The Winner: [Insert Name of the Bar Here]
+### The Winner: el bar del la Mifa
 
 Tucked away in the [Insert Neighborhood, e.g., El Barrio] district, **[Insert Bar Name]** is the undisputed champion of my personal tour.
 
