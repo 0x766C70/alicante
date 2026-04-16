@@ -4,3 +4,4 @@ title = 'Alicante by P&P'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+theme = 'ananke'
