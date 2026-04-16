@@ -1,9 +1,7 @@
 +++
-title = "The Quest for the Perfect Sangria in Alicante"
-date = 2026-04-16T20:15:00+02:00
+title = 'The Quest for the Perfect Sangria in Alicante'
+date = 2024-01-14T07:07:07+01:00
 draft = false
-tags = ["travel", "alicante", "sangria", "spain"]
-description = "Forget NixOS for a moment. We are hunting for the holy grail of fruit-infused wine in Alicante."
 +++
 ## Sun, Sea, and Sangria
 
