@@ -2,7 +2,7 @@ disabled = false
 locale = "en"
 label = "English"
 weight = 1
-title = "La vida alicantina..."
+title = "Mar, Arroz, Sangria"
 
 [params]
   displayName = "EN"
@@ -11,7 +11,7 @@ title = "La vida alicantina..."
   dateFormat = "2 January 2006"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "MAS alicante: Mar, Arroz, Sangria"
+  description = "Mar, Arroz, Sangria, the blog of Alicante"
   # copyright = "Copy, _right?_ :thinking_face:"
 
 [params.author]
@@ -19,8 +19,8 @@ title = "La vida alicantina..."
    email = "vlp@fdn.fr"
    image = "profile.png"
 #   imageQuality = 96
-#   headline = "I'm only human"
-   bio = "about Alicante, the see and sangrias"
+   headline = "la vida alicantina"
+   bio = "about Alicante, the city, the culture, the people, the food, the drinks, the music, the art, the history, the present and the future"
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
