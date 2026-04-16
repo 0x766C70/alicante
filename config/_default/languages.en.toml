@@ -17,7 +17,7 @@ title = "Azul"
 [params.author]
    name = "Alicante"
    email = "vlp@fdn.fr"
-   image = "img/profile.png"
+   image = "profile.png"
 #   imageQuality = 96
 #   headline = "I'm only human"
    bio = "about Alicante, the see and sangrias"
