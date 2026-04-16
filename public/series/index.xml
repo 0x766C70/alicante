@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Series on Blowfish</title>
+    <title>Series on Azul</title>
     <link>https://0x766c70.github.io/alicante/series/</link>
-    <description>Recent content in Series on Blowfish</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Series on Azul</description>
+    <generator>Hugo</generator>
     <language>en</language>
-    <copyright>© 2026 </copyright>
+    <managingEditor>vlp@fdn.fr (la Mifa)</managingEditor>
+    <webMaster>vlp@fdn.fr (la Mifa)</webMaster>
     <atom:link href="https://0x766c70.github.io/alicante/series/index.xml" rel="self" type="application/rss+xml" />
-    
   </channel>
 </rss>
