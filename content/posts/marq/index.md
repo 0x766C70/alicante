@@ -5,7 +5,7 @@ draft = false
 summary = "Visitez le MARQ, musée archéologique familial d’Alicante, et dégustez des bocadillos authentiques sur la terrasse calme du restaurant BARQ."
 tags = ["culture", "musées"]
 +++
-Découvrez le [MARQ](https://www.marqalicante.com/es/ "Marq"), musée d’archéologie d’Alicante et son restaurant le BARQ pour une sortie en famille qui a tout bon !
+Découvrez le [MARQ](https://www.marqalicante.com/es/ "Marq"), musée d’archéologie d’Alicante et son restaurant le [BARQ {{< icon "instagram" >}}](https://www.instagram.com/barqalicante/) pour une sortie en famille qui a tout bon !
 
 Si vos enfants ou vous même êtes férus d’archéologie, vous êtes dans la bonne région ! 
 
