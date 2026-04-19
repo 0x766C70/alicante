@@ -1,7 +1,9 @@
 +++
 title = 'Découvrez le MARQ'
-date = 2024-01-14T07:07:07+01:00
+date = 2025-04-19
 draft = false
+summary = "Visitez le MARQ, musée archéologique familial d’Alicante, et dégustez des bocadillos authentiques sur la terrasse calme du restaurant BARQ."
+tags = ["culture", "musées"]
 +++
 Découvrez le MARQ, musée d’archéologie d’Alicante et son restaurant le BARQ pour une sortie en famille qui a tout bon !
 
