@@ -1,11 +1,13 @@
 +++
 title = 'Douceur de vivre à l’alicantina #cafe con leche y toastada'
-date = 2024-01-14T07:07:07+01:00
+date = 2025-04-19
+summary: "Découvrez les petits plaisirs d'Alicante : cafés abordables en famille, cafétérias authentiques et pauses soleil près du MARQ."
+tags: ["cafe", "lifestyle"]
 draft = false
 +++
 Dans cette rubrique, nous vous ferons découvrir tout ce qui constitue selon nous les petits plaisirs de la vie ici (et ils sont nombreux, vous pouvez nous croire !).
 
-C’est seulement à Alicante que nous profitons d’un « cafe con leche de avena » que nous savourons souvent pendant une balade en famille. A Paris, le moindre café à emporter coûte 6/7€ et on peut, je pense tous se mettre d’accord, que c’est une hérésie ! Ici, c’est clairement moins de 2€, le sourire en prime !
+C’est seulement à Alicante que nous profitons d’un « cafe con leche de avena » que nous savourons souvent pendant une balade en famille\*. A Paris, le moindre café à emporter coûte 6/7€ et on peut, je pense tous se mettre d’accord, que c’est une hérésie ! Ici, c’est clairement moins de 2€, le sourire en prime !
 
 Plus généralement, en France, nous avons boboeisé le concept du café avec des « Coffee shops » tandis qu’ici ce sont les cafétéria qui ont gardé leur place au soleil.
 

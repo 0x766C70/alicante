@@ -11,7 +11,7 @@ title = "Mar, Arroz, Sangria"
   dateFormat = "2 January 2006"
   logo = "profile.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "description to fill"
+  #description = "description to fill"
   copyright = "Crée par des humains avec amour !"
 
 [params.author]
@@ -20,7 +20,7 @@ title = "Mar, Arroz, Sangria"
    image = "profile.png"
 #   imageQuality = 96
    headline = "La vida alicantina"
-   bio = "about Alicante, the city, the culture, the people, the food, the drinks, the music, the art, the history, the present and the future"
+   bio = "De Paris à Alicante où l'histoire, la cuisine, la culture et les rires des enfants se mêlent au soleil de la Méditerranée."
 #   links = [
 #     { email = "mailto:hello@your_domain.com" },
 #     { link = "https://link-to-some-website.com/" },
