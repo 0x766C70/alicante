@@ -1,5 +1,5 @@
 ---
-title: "This is a section"
+title: "Edito"
 ---
 
 Nous sommes Thomas et Albane, les parents de Garance (2015), Auguste (2018) et Philippine (2022). Et, depuis 2023, nous sommes tombés, en famille, sous le charme d’Alicante. 
