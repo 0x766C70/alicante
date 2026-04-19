@@ -1,7 +1,8 @@
----
-title: "Edito"
----
-
++++
+title = 'Bonjour et bienvenue sur Alicante y mas !'
+date = 2024-01-14T07:07:07+01:00
+draft = false
++++
 Nous sommes Thomas et Albane, les parents de Garance (2015), Auguste (2018) et Philippine (2022). Et, depuis 2023, nous sommes tombés, en famille, sous le charme d’Alicante. 
 
 
@@ -14,4 +15,7 @@ Et c’est ainsi que depuis bientôt 3 ans, nous passons deux mois par an à Ali
 Nous avons à cœur de donner (en)vie à notre ville de cœur.
 
 
-Si vous êtes sur cette page, c’est certainement que vous souhaitez en savoir plus sur cette ville solaire. Ici, nous vous ferons découvrir notre expérience d’Alicante, les moments que nous y vivons en famille, nos petits rituels et toutes les expériences à partager en famille avec simplicité pour profiter du charme de la vida alicantina.
+Si vous êtes sur cette page, c’est certainement que vous souhaitez en savoir plus sur cette ville solaire. Ici, nous vous ferons découvrir notre expérience d’Alicante, les moments que nous y vivons en famille, nos petits rituels et toutes les expériences à partager en famille avec simplicité pour profiter du charme de la vida alicantina. 
+
+
+Thomas et Albane
