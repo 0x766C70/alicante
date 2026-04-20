@@ -34,4 +34,4 @@ Pour d’autres adresses dans le quartier du BARQ
 Pour découvrir une autre sortie sur le thème de l’archéologie
 
 
-\[[crédits photo](https://commons.wikimedia.org/wiki/File:Fachada_principal_del_Museo_Arquol%C3%B3gico_Provincial_de_Alicante.jpg)\]
+[<crédits photo>](https://commons.wikimedia.org/wiki/File:Fachada_principal_del_Museo_Arquol%C3%B3gico_Provincial_de_Alicante.jpg)
