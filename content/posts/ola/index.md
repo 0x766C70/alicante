@@ -23,7 +23,7 @@ A quelques minutes à pied l’un de l’autre, ils proposent des collections qu
 
 De notre expérience, ils sont assez peu fréquentés donc la visite est très agréable. Et si la patience ou l’intérêt de vos enfants atteignent leurs limites, vous aurez tout le loisir de poursuivre ou approfondir la visite une prochaine fois, ces musées étant gratuits. 
 
-Pour une autre idée de musée, découvrez notre article sur le MARQ
+Pour une autre idée de musée, découvrez notre article sur le [MARQ](https://alicanteymas.es/posts/marq/)
 
 {{< button href="#button"  href="https://es.wikipedia.org/wiki/Museo_de_Bellas_Artes_Gravina" >}}
 Crédit photo: MUBAG
