@@ -17,7 +17,7 @@ En centre ville, deux musées gratuits méritent toute votre attention :
     le musée des beaux-arts Gravina (MUBAG)
 
 
-{{< carousel images="posts/ola/*" aspectRatio="21-9" interval="2500" >}}
+{{< carousel images="gallery/**" aspectRatio="21-9" interval="2500" >}}
 
 A quelques minutes à pied l’un de l’autre, ils proposent des collections qui se complètent et sauront à coup sûr satisfaire chacun d’entre vous.
 
