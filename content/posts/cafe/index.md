@@ -1,5 +1,5 @@
 +++
-title = 'Douceur de vivre à l’alicantina cafe con leche y toastada'
+title = 'Douceur de vivre à l’alicantina : café con leche y tostada'
 date = 2025-04-19
 summary = "Découvrez les petits plaisirs d'Alicante : cafés abordables en famille, cafétérias authentiques et pauses soleil près du MARQ."
 tags = ["cafe", "lifestyle"]
@@ -13,10 +13,10 @@ Plus généralement, en France, nous avons boboeisé le concept du café avec de
 
 De notre côté, nous allons souvent dans une cafétéria qui s’appelle My Coffee (généralement pour prendre un café à emporter avant de partir en balade) mais il y a un grand espace pour s’installer.
 
-Si vous venez visiter le MARQ ou vous balader dans le parc du Castillo Santa Barbara, vous pouvez profiter de My Coffee pour un petit déjeuner ou un déjeuner sur le pouce à base de toastadas, empenadas. C’est simple, bon et efficace !
+Si vous venez visiter le MARQ ou vous balader dans le parc du Castillo Santa Barbara, vous pouvez profiter de My Coffee pour un petit déjeuner ou un déjeuner sur le pouce à base de toastadas, empanadas. C’est simple, bon et efficace !
 
-A deux pas du MARQ également, vous pourrez également découvrir la cafétéria deio qui est une place très agréable pour un bagel accompagné d’un café glacé pour le petit déjeuner (qui peut être tardif). Pensez à vérifier les horaires car Deio ferme en milieu d’après-midi. 
+A deux pas du MARQ également, vous pourrez également découvrir la cafétéria Deio qui est une place très agréable pour un bagel accompagné d’un café glacé pour le petit déjeuner (qui peut être tardif). Pensez à vérifier les horaires car Deio ferme en milieu d’après-midi. 
 
-Enfin, si vous êtes plutôt « café para llevar » n’importe quelle boulangerie ou cafeteria vous proposez un café ou emporter à déguster au soleil !
+Enfin, si vous êtes plutôt « café para llevar » n’importe quelle boulangerie ou cafeteria vous propose un café à emporter à déguster au soleil !
 
-*Disclaimer : c’est pas fameux d’un point de vue écologique nous le concédons.
+*Disclaimer : ce n’est pas fameux d’un point de vue écologique nous le concédons.
