@@ -5,7 +5,7 @@ draft = false
 summary = "Profitez des musées gratuits d’Alicante (MAC et MUBAG) pour des visites culturelles agréables lors des journées trop chaudes ou pluvieuses."
 tags = ["pluie", "canicule"]
 +++
-Ici, nous vous partagerons des idées de sortie et d’activité pour les jours ou la chaleur sera trop intense (ou pour les quelques jours où la pluie s’inviterait !).
+Ici, nous vous partagerons des idées de sortie et d’activité pour les jours où la chaleur sera trop intense (ou pour les quelques jours où la pluie s’inviterait !).
 
 
 Alicante regorge de musées très chouettes (et souvent gratuits) qui permettent d’occuper les journées où le temps ne permet pas de rester en extérieur ! C’est aussi une excellente opportunité de donner une dimension plus culturelle à votre séjour !
@@ -25,9 +25,9 @@ De notre expérience, ils sont assez peu fréquentés donc la visite est très a
 
 Pour une autre idée de musée, découvrez notre article sur le [MARQ](https://alicanteymas.es/posts/marq/)
 
-{{< button href="#button"  href="https://es.wikipedia.org/wiki/Museo_de_Bellas_Artes_Gravina" >}}
+{{< button href="https://es.wikipedia.org/wiki/Museo_de_Bellas_Artes_Gravina" >}}
 Crédit photo: MUBAG
 {{< /button >}}
-{{< button href="#button"  href="https://es.wikipedia.org/wiki/Museo_de_Arte_Contempor%C3%A1neo_de_Alicante" >}}
+{{< button href="https://es.wikipedia.org/wiki/Museo_de_Arte_Contempor%C3%A1neo_de_Alicante" >}}
 Crédit photo: MUCA
 {{< /button >}}
