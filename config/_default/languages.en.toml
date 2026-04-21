@@ -12,7 +12,7 @@ title = "Mar, Arroz, Sangria"
   logo = "profile.png"
   # secondaryLogo = "img/secondary-logo.png"
   #description = "description to fill"
-  copyright = "Crée par des humains avec amour !"
+  copyright = "Crée par une famille d'humains avec amour !"
 
 [params.author]
    name = "Alba"
