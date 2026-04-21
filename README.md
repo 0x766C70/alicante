@@ -26,20 +26,6 @@ The blog is aimed at French-speaking families who want to discover Alicante thro
 
 ---
 
-## 🤖 Meet Botbot
-
-This repo includes **Botbot**, a custom GitHub Copilot agent that acts as the blog's editor-in-chief. Botbot knows Alicante better than anyone, masters Hugo + Blowfish front-matter, and will ruthlessly fix your spelling without touching your voice.
-
-Botbot can:
-- Draft new articles from a brief (or from scratch) in the Mifa's tone
-- Proofread and polish drafts while preserving the author's style
-- Generate properly structured Hugo front-matter ready to publish
-- Suggest tags, summaries and featured image ideas
-
-To use Botbot, open a conversation with GitHub Copilot in this repo and `@botbot-writer` will be available as a custom agent.
-
----
-
 ## Website structure
 
 ```
@@ -125,7 +111,6 @@ Put images alongside `index.md` in the same folder and reference them relatively
 | Hosting | GitHub Pages |
 | Domain | `alicanteymas.es` |
 | CI/CD | GitHub Actions — auto-deploy on push to `main` |
-| AI writing assistant | Botbot (custom GitHub Copilot agent) |
 
 ---
 
