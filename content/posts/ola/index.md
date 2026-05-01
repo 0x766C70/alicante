@@ -1,7 +1,7 @@
 +++
 title = 'Ola de calor, que hacer ?'
-date = 2025-04-19
-draft = false
+date = 2026-04-19
+draft = true
 summary = "Profitez des musées gratuits d’Alicante (MAC et MUBAG) pour des visites culturelles agréables lors des journées trop chaudes ou pluvieuses."
 tags = ["pluie", "canicule"]
 +++

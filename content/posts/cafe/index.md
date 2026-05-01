@@ -1,6 +1,6 @@
 +++
 title = 'Douceur de vivre à l’alicantina cafe con leche y toastada'
-date = 2025-04-19
+date = 2026-04-19
 summary = "Découvrez les petits plaisirs d'Alicante : cafés abordables en famille, cafétérias authentiques et pauses soleil près du MARQ."
 tags = ["cafe", "lifestyle"]
 draft = false
