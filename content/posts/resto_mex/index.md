@@ -1,11 +1,11 @@
 +++
 title = 'Douceur de vivre à l’alicantina cafe con leche y toastada'
-date = 2026-05-15
-summary = "Découvrez les petits plaisirs d'Alicante : cafés abordables en famille, cafétérias authentiques et pauses soleil à proximité du Castillo Santa Barbara."
+date = 2026-04-19
+summary = "Découvrez les petits plaisirs d'Alicante : cafés abordables en famille, cafétérias authentiques et pauses soleil près du MARQ."
 tags = ["cafe", "lifestyle"]
 draft = false
 +++
-Dans ce billet, nous vous ferons découvrir tout ce qui constitue selon nous les petits plaisirs de la vie ici (et ils sont nombreux, vous pouvez nous croire !).
+Dans cette rubrique, nous vous ferons découvrir tout ce qui constitue selon nous les petits plaisirs de la vie ici (et ils sont nombreux, vous pouvez nous croire !).
 
 C’est seulement à Alicante que nous profitons d’un « café con leche de avena » que nous savourons souvent pendant une balade en famille\*. À Paris, le moindre café à emporter coûte 6/7€ et on peut, je pense, tous se mettre d’accord, que c’est une hérésie ! Ici, c’est clairement moins de 2€, le sourire en prime !
 
@@ -18,3 +18,5 @@ Si vous venez visiter le MARQ ou vous balader dans le parc du Castillo Santa Bar
 À deux pas du MARQ également, vous pourrez également découvrir la cafétéria Deio qui est une place très agréable pour un bagel accompagné d’un café glacé pour le petit déjeuner (qui peut être tardif). Pensez à vérifier les horaires car Deio ferme en milieu d’après-midi. 
 
 Enfin, si vous êtes plutôt « café para llevar » n’importe quelle boulangerie ou cafeteria vous proposera un café à emporter à déguster au soleil !
+
+*Disclaimer : c’est pas fameux d’un point de vue écologique nous le concédons.
