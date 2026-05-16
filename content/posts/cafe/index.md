@@ -24,7 +24,7 @@ Dès que nous partons en balade, nous allons chercher un café (que nous devons 
 A Paris, ce plaisir est une dépense élevée « pour juste un café » donc ici on en profite pour fond !
 
 Pour finir cet article, voici deux adresses pour une petite pause salée près du Castillo Santa Barbara que j’avais envie de mettre à l’honneur tellement nous apprécions y aller. 
-Vous pouvez profiter de My Coffee pour un petit déjeuner ou un déjeuner sur le pouce à base de toastadas, empanadas et autres douceurs. C’est simple, bon et efficace !
+Vous pouvez profiter de [My Coffee](https://www.mycoffeexpres.es/) pour un petit déjeuner ou un déjeuner sur le pouce à base de toastadas, empanadas et autres douceurs. C’est simple, bon et efficace !
 
 A deux pas du MARQ, vous pourrez également découvrir la [cafétéria Deio {{< icon "instagram" >}}](https://www.instagram.com/deio.coffee/) qui est une place très agréable pour un bagel accompagné d’un café glacé pour le petit déjeuner (qui peut être tardif). Pensez à vérifier les horaires car Deio ferme en milieu d’après-midi. 
 
