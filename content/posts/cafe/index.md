@@ -13,7 +13,7 @@ Partout où vous irez, se trouveront sur votre chemin des cafétérias où vous 
 
 Ces cafétérias sont pleines de charme car elles sont authentiques et il y a en un peu partout et pour tous les goûts.
 
-Et elles ne confondent pas avec des coffee shops à la DA léchée qui trouvent aussi leur place à Alicante (quelques adresses ici).
+Et elles ne confondent pas avec des coffee shops à la DA léchée qui trouvent aussi leur place à Alicante.
 
 Et, le charme du cafe dégusté en terrasse ou à emporter pour accompagner une balade est un plaisir tout à fait accessible.
 Ici, un latte avoine coûte - de 2€ et il est servi avec le sourire.

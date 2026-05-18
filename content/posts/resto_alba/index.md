@@ -25,7 +25,7 @@ Nous avons littéralement tout adoré ! Nous ne sommes pas difficiles mais je pe
 
 Et, Alba, c’est vraiment mon coup de cœur dans la série « restaurants fins ».
 
-Et les prix sont aussi très raisonnables (plats entre 17€ et 22€, vin au verre avec de celles références à partir de 4€).
+Et les prix sont aussi très raisonnables (plats entre 17€ et 22€, vin au verre avec de belles références à partir de 4€).
 
 Je vous invite à découvrir la chef Alba Esteve y Ruiz et me raconter ce que vous avez pensé de ce restaurant !
 
