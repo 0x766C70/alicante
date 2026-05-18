@@ -1,22 +1,32 @@
 +++
-title = 'Douceur de vivre à l’alicantina cafe con leche y toastada'
+title = 'Alba Restaurant : le gourmet à ne pas manquer à Alicante pour un dîner en amoureux !'
 date = 2026-04-19
-summary = "Découvrez les petits plaisirs d'Alicante : cafés abordables en famille, cafétérias authentiques et pauses soleil près du MARQ."
-tags = ["cafe", "lifestyle"]
-draft = true
+summary = "Le gourmet à ne pas manquer à Alicante pour un dîner en amoureux !"
+tags = ["resto", "lifestyle"]
+draft = draft
 +++
-Dans cette rubrique, nous vous ferons découvrir tout ce qui constitue selon nous les petits plaisirs de la vie ici (et ils sont nombreux, vous pouvez nous croire !).
+Il nous arrive de passer quelques jours à Alicante en amoureux ce qui nous donne la possibilité de tester de nouvelles adresses !
 
-C’est seulement à Alicante que nous profitons d’un « café con leche de avena » que nous savourons souvent pendant une balade en famille\*. À Paris, le moindre café à emporter coûte 6/7€ et on peut, je pense, tous se mettre d’accord, que c’est une hérésie ! Ici, c’est clairement moins de 2€, le sourire en prime !
+Alors, premier tips, peu importe où vous allez, pensez toujours à consulter les adresses du guide Michelin. Vous y découvrirez des restaurants vraiment canons ! Vous pouvez me faire confiance !
 
-Plus généralement, en France, nous avons boboisé le concept du café avec des « Coffee shops » tandis qu’ici ce sont les cafétérias qui ont gardé leur place au soleil.
+Ici, à Alicante, plusieurs adresses méritent d’être découvertes !
 
-De notre côté, nous allons souvent dans une cafétéria qui s’appelle My Coffee (généralement pour prendre un café à emporter avant de partir en balade) mais il y a un grand espace pour s’installer.
+Dans ce billet, je vous propose de réserver chez [Alba](https://www.albarestaurante.es). Cette adresse discrète dans une rue calme, voisine d’un pub irlandais est l’une des plus belles découvertes d’Alicante.
+La cadre et le service sont raffinés et la cuisine fine et maîtrisée.
 
-Si vous venez visiter le MARQ ou vous balader dans le parc du Castillo Santa Barbara, vous pouvez profiter de My Coffee pour un petit déjeuner ou un déjeuner sur le pouce à base de toastadas, empanadas. C’est simple, bon et efficace !
+Lors de notre dernière visite en mai 2026, le coup de cœur pour ce lieu s’est encore confirmé.
 
-À deux pas du MARQ également, vous pourrez également découvrir la cafétéria Deio qui est une place très agréable pour un bagel accompagné d’un café glacé pour le petit déjeuner (qui peut être tardif). Pensez à vérifier les horaires car Deio ferme en milieu d’après-midi. 
+Nous avons opté pour le menu dégustation à 37,50€ pour 5 plats (2 entrées, 2 plats et 1 dessert).
+Après les deux entrées, je dois bien reconnaître que je n’avais déjà plus très faim.
+C’est une formule très sympa pour découvrir des plats que vous n’auriez sans doute pas choisi en première intention.
+Nous avons littéralement tout adoré ! Nous ne sommes pas difficiles mais je pense être très exigeante lorsque je me rends dans ce type de restaurant.
 
-Enfin, si vous êtes plutôt « café para llevar » n’importe quelle boulangerie ou cafeteria vous proposera un café à emporter à déguster au soleil !
+Et, Alba, c’est vraiment mon coup de cœur dans la série « restaurants fins ».
 
-*Disclaimer : c’est pas fameux d’un point de vue écologique nous le concédons.
+Et les prix sont aussi très raisonnables (plats entre 17€ et 22€, vin au verre avec de celles références à partir de 4€).
+
+Je vous invite à découvrir la chef Alba Esteve y Ruiz et me raconter ce que vous avez pensé de ce restaurant !
+
+Et moi, je vous propose ma revue des restaurants Michelin que nous avons testés pour vous (et un peu pour nous aussi 🤭).
+
+PS : n’oubliez pas de commander le pain et l’huile, c’est un rêve !
