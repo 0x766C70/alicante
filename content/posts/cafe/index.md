@@ -26,6 +26,6 @@ A Paris, ce plaisir est une dépense élevée « pour juste un café » donc ici
 Pour finir cet article, voici deux adresses pour une petite pause salée près du Castillo Santa Barbara que j’avais envie de mettre à l’honneur tellement nous apprécions y aller. 
 Vous pouvez profiter de [My Coffee](https://www.mycoffeexpres.es/) pour un petit déjeuner ou un déjeuner sur le pouce à base de toastadas, empanadas et autres douceurs. C’est simple, bon et efficace !
 
-A deux pas du MARQ, vous pourrez également découvrir la [cafétéria Deio {{< icon "instagram" >}}](https://www.instagram.com/deio.coffee/) qui est une place très agréable pour un bagel accompagné d’un café glacé pour le petit déjeuner (qui peut être tardif). Pensez à vérifier les horaires car Deio ferme en milieu d’après-midi. 
+A deux pas du [MARQ](https://alicanteymas.es/posts/marq/), vous pourrez également découvrir la [cafétéria Deio {{< icon "instagram" >}}](https://www.instagram.com/deio.coffee/) qui est une place très agréable pour un bagel accompagné d’un café glacé pour le petit déjeuner (qui peut être tardif). Pensez à vérifier les horaires car Deio ferme en milieu d’après-midi. 
 
 Enfin, si vous êtes plutôt « café para llevar » n’importe quelle boulangerie ou cafeteria vous proposera un café à emporter à déguster au soleil !
