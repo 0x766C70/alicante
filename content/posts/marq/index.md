@@ -13,9 +13,13 @@ L’archéologie occupe une place importante dans la vie culturelle de la régio
 
 Pour débuter l’initiation, allez découvrir le musée d’archéologie proche du centre ville ou accessible par le TRAM (station MARQ Castillo).
 
+{{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
+
 Le bâtisse du musée est magnifique et la collection permanente est très chouette. Elle plaît beaucoup aux enfants car elle est très visuelle et tout est à leur hauteur. Ainsi, pas besoin de savoir lire (ou comprendre l’espagnol) pour profiter. Le point fort du musée porte également sur ses expositions temporaires qui sont toujours très bien présentées. Après la visite, un petit tour par la boutique clôturera la découverte du musée. 
 
 De notre côté, nous allons dans ce musée à chacun de nos séjours car les enfants l’adorent. Si vous venez régulièrement, je vous invite à découvrir l’offre « amigo » du musée (à laquelle nous avons souscrit).
+
+{{< carousel images="gallery2/*" aspectRatio="21-9" interval="2500" >}}
 
 Ensuite, venez découvrir une de nos adresses favorites d’Alicante, le restaurant du musée, le BARQ.
 
