@@ -16,6 +16,8 @@ La cadre et le service sont raffinés et la cuisine fine et maîtrisée.
 
 Lors de notre dernière visite en mai 2026, le coup de cœur pour ce lieu s’est encore confirmé.
 
+{{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
+
 Nous avons opté pour le menu dégustation à 37,50€ pour 5 plats (2 entrées, 2 plats et 1 dessert).
 Après les deux entrées, je dois bien reconnaître que je n’avais déjà plus très faim.
 C’est une formule très sympa pour découvrir des plats que vous n’auriez sans doute pas choisi en première intention.
