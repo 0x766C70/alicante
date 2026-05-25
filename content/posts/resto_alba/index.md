@@ -34,5 +34,5 @@ Et moi, je vous propose ma revue des restaurants Michelin que nous avons testés
 PS : n’oubliez pas de commander le pain et l’huile, c’est un rêve !
 
 {{< badge >}}
-Credits photo: https://www.albarestaurante.es/
+Credits photos: https://www.albarestaurante.es/
 {{< /badge >}}
