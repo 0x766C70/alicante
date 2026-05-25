@@ -1,5 +1,5 @@
 +++
-title = 'Café con leche y tostadas à deux pas du Castillo Santa Bárbara'
+title = 'Café con leche y tostadas : le rituel du matin à ne pas manquer'
 date = 2026-05-15
 summary = "Découvrez les petits plaisirs d'Alicante : cafés abordables en famille, cafétérias authentiques et pauses soleil à proximité du Castillo Santa Bárbara."
 tags = ["cafe", "lifestyle"]
