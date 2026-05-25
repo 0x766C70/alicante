@@ -1,5 +1,5 @@
 +++
-title = "Le MARQ : le musée d'archéologie incontournable d'Alicante"
+title = "Le MARQ : le musée d'archéologie incontournable"
 date = 2026-04-19
 draft = false
 summary = "Visitez le MARQ, musée archéologique familial d’Alicante, et dégustez des bocadillos authentiques sur la terrasse calme du restaurant BARQ."
