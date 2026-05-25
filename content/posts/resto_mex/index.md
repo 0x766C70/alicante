@@ -1,7 +1,7 @@
 +++
 title = 'Restaurants mexicains : nos adresses favorites à Alicante'
 date = 2026-04-19
-summary = "Nos restaurants mexicains favoris d'Alicante."
+summary = "Découvrez nos restaurants mexicains favoris à Alicante pour des soirées hautes en saveurs et des cocktails inoubliables."
 tags = ["resto", "lifestyle"]
 draft = false
 +++

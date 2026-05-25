@@ -1,7 +1,7 @@
 +++
 title = 'Alba Restaurant : le dîner en amoureux à ne pas manquer à Alicante'
 date = 2026-04-19
-summary = "Le gourmet à ne pas manquer à Alicante pour un dîner en amoureux !"
+summary = "Réservez chez Alba, l'adresse gastronomique discrète et raffinée d'Alicante pour un dîner en amoureux inoubliable."
 tags = ["resto", "lifestyle"]
 draft = false
 +++
