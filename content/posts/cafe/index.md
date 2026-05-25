@@ -11,7 +11,7 @@ Ce rituel a un charme fou et est une invitation à savourer le moment présent.
 
 Partout où vous irez, se trouveront sur votre chemin des cafétérias où vous pourrez vous installer pour un café au lait et une tostada (ajoutez l’huile d’olive ça fait toute la différence).
 
-{{< carousel images="gallery2/*" aspectRatio="21-9" interval="2500" >}}
+{{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
 
 Ces cafétérias sont pleines de charme car elles sont authentiques et il y a en un peu partout et pour tous les goûts.
 
