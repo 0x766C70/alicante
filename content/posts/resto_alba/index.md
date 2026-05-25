@@ -32,3 +32,7 @@ Je vous invite à découvrir la chef Alba Esteve y Ruiz et me raconter ce que vo
 Et moi, je vous propose ma revue des restaurants Michelin que nous avons testés pour vous (et un peu pour nous aussi 🤭).
 
 PS : n’oubliez pas de commander le pain et l’huile, c’est un rêve !
+
+{{< badge >}}
+Credits photo: https://www.albarestaurante.es/
+{{< /badge >}}
