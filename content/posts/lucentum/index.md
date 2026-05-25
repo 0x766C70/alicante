@@ -10,6 +10,7 @@ draft = false
 
 En quelques lignes, voilà pourquoi je vous recommande d’aller visiter le Lucentum. Nous y sommes allés plusieurs fois et avons même assistés à une reconstitution avec des acteurs (les enfants ont adoré et nous aussi !).
 Sincèrement, le site est impressionnant, bien conservé et permet vraiment de se projeter.
+{{< carousel images="gallery_romains/*" aspectRatio="21-9" interval="2500" >}}
 
 Le site est accessible en TRAM naturellement mais je vous propose deux alternatives très sympas.
 
