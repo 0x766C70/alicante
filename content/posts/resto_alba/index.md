@@ -1,5 +1,5 @@
 +++
-title = 'Alba Restaurant : le gourmet à ne pas manquer à Alicante pour un dîner en amoureux !'
+title = 'Alba Restaurant : le dîner en amoureux à ne pas manquer à Alicante'
 date = 2026-04-19
 summary = "Le gourmet à ne pas manquer à Alicante pour un dîner en amoureux !"
 tags = ["resto", "lifestyle"]

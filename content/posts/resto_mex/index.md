@@ -1,5 +1,5 @@
 +++
-title = 'Nos restaurants mexicains favoris à Alicante'
+title = 'Restaurants mexicains : nos adresses favorites à Alicante'
 date = 2026-04-19
 summary = "Nos restaurants mexicains favoris d'Alicante."
 tags = ["resto", "lifestyle"]
