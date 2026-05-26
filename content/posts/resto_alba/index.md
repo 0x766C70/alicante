@@ -2,12 +2,12 @@
 title = 'Alba Restaurant : le dîner en amoureux à ne pas manquer'
 date = 2026-04-19
 summary = "Le gourmet à ne pas manquer à Alicante pour un dîner en amoureux !"
-tags = ["resto", "lifestyle"]
+tags = ["resto", "lifestyle", "diner en amoureux", "Guide Michelin"]
 draft = false
 +++
 Il nous arrive de passer quelques jours à Alicante en amoureux, ce qui nous donne la possibilité de tester de nouvelles adresses !
 
-Alors, premier tips, peu importe où vous allez, pensez toujours à consulter les adresses du guide Michelin. Vous y découvrirez des restaurants vraiment canons ! Vous pouvez me faire confiance !
+Alors, premier tips, peu importe où vous allez, pensez toujours à consulter les adresses du [guide Michelin](https://guide.michelin.com/fr/fr/comunidad-valenciana/alacant/restaurants). Vous y découvrirez des restaurants vraiment canons ! Vous pouvez me faire confiance !
 
 Ici, à Alicante, plusieurs adresses méritent d’être découvertes !
 
