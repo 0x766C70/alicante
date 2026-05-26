@@ -11,7 +11,7 @@ title = "Mar, Arroz, Sangria"
   dateFormat = "2 January 2006"
   logo = "logo.png"
   # secondaryLogo = "img/secondary-logo.png"
-  description = "description to fill"
+  description = "La vie d'une famille française sous le soleil d'Alicante : mer, gastronomie, aventures et fou rires entre la Costa Blanca et la Casa Azul."
   copyright = "Crée par une famille d'humains avec amour !"
 
 [params.author]
