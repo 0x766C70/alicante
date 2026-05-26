@@ -8,19 +8,19 @@
 
 ## About the blog
 
-*Alicante y MAS* is a family blog written in French by **vlp** (Thomas — the tech guy) and **Albane** (the one with actual taste in fashion and food). Since a spontaneous Easter 2023 trip landed them on the Esplanada, the whole family has been spending two months a year in Alicante — and showing no signs of stopping.
+*Alicante y MAS* is a family blog written in French by **vlp** and **Albane** (the one with actual taste in fashion and food). Since a spontaneous Easter 2023 trip landed them on the Esplanada, the whole family has been spending two months a year in Alicante — and showing no signs of stopping.
 
 The cast:
 
 | Nickname | Real name | Born |
 |---|---|---|
-| — | Thomas (vlp) | the one reading this README |
-| — | Albane | lifestyle, fashion & the real brains |
-| **la Princesse** | Garance | 2015 |
-| **le Chouetton** | Auguste | 2018 |
-| **la Pomponette** | Philippine | 2022 |
+| **vlp** | Thomas (vlp) | the one building the website |
+| **Princesse** | Albane | lifestyle, fashion & the real brains |
+| **la Mini Princesse** | Garance | kid |
+| **le Chouetton** | Auguste | kid |
+| **la Pomponette** | Philippine | kid |
 
-Together they make up **la Mifa** — and they write about everything that makes life at the *Casa Azul* and in Alicante worth sharing: café con leche for under €2, free museums on rainy days, the best toastadas in town, and all the small pleasures of *la vida alicantina*.
+Together they make up **la Mifa** — and they write about everything that makes life at the *Casa Azul* and in Alicante worth sharing: café con lech, free museums on rainy days, the best toastadas in town, and all the small pleasures of *la vida alicantina*.
 
 The blog is aimed at French-speaking families who want to discover Alicante through the eyes of people who genuinely live there — not a listicle, not a travel agency. Just honest, warm, first-hand experience.
 
@@ -107,7 +107,6 @@ Put images alongside `index.md` in the same folder and reference them relatively
 |---|---|
 | Static site generator | [Hugo Extended](https://gohugo.io/) `0.160.0` |
 | Theme | [Blowfish](https://blowfish.page/) (git submodule — `themes/`) |
-| CSS pre-processor | Dart Sass `1.99.0` |
 | Hosting | GitHub Pages |
 | Domain | `alicanteymas.es` |
 | CI/CD | GitHub Actions — auto-deploy on push to `main` |
