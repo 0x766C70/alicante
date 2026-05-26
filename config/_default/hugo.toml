@@ -3,8 +3,8 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish" # UNCOMMENT THIS LINE
-baseURL = "www.alicanteymas.es"
-defaultContentLanguage = "en"
+baseURL = "https://www.alicanteymas.es"
+defaultContentLanguage = "fr"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
