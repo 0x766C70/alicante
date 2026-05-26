@@ -52,6 +52,11 @@
   pageRef = "tags"
   weight = 30
 
+[[main]]
+  name = "À propos de nous !"
+  pageRef = "a-propos-de-nous"
+  weight = 90
+
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before
