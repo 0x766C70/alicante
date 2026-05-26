@@ -29,6 +29,6 @@ Dès que nous partons en balade, nous allons chercher un café (que nous devons 
 Pour finir cet article, voici deux adresses pour une petite pause salée près du Castillo Santa Bárbara que j'avais envie de mettre à l'honneur tellement nous apprécions y aller.
 Vous pouvez profiter de [My Coffee](https://www.mycoffeexpres.es/) pour un petit déjeuner ou un déjeuner sur le pouce à base de tostadas, empanadas et autres douceurs. C'est simple, bon et efficace !
 
-À deux pas du [MARQ](https://alicanteymas.es/posts/marq/), vous pourrez également découvrir la [cafétéria Deio {{< icon "instagram" >}}](https://www.instagram.com/deio.coffee/) qui est une place très agréable pour un bagel accompagné d'un café glacé pour le petit déjeuner (qui peut être tardif). Pensez à vérifier les horaires car Deio ferme en milieu d'après-midi.
+À deux pas du [MARQ](/posts/marq/), vous pourrez également découvrir la [cafétéria Deio {{< icon "instagram" >}}](https://www.instagram.com/deio.coffee/) qui est une place très agréable pour un bagel accompagné d'un café glacé pour le petit déjeuner (qui peut être tardif). Pensez à vérifier les horaires car Deio ferme en milieu d'après-midi.
 
 Enfin, si vous êtes plutôt « café para llevar » n'importe quelle boulangerie ou cafétéria vous proposera un café à emporter à déguster au soleil !
