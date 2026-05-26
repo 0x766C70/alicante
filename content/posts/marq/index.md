@@ -19,7 +19,7 @@ De notre côté, nous allons dans ce musée à chacun de nos séjours car les en
 
 {{< carousel images="gallery2/*" aspectRatio="21-9" interval="2500" >}}
 
-Ensuite, venez découvrir une de nos adresses favorites d’Alicante, le restaurant du musée, le BARQ.
+Ensuite, venez découvrir une de nos adresses favorites d’Alicante, le restaurant du musée, le [BARQ](https://www.instagram.com/barqalicante/).
 
 Pour nous, c'est une adresse sous-cotée. Pourquoi ? C’est une des terrasses les plus agréables et les plus calmes de la ville. En famille, les enfants peuvent jouer en extérieur et en toute sécurité. Le service est impeccable et les prix très abordables !
 
@@ -28,8 +28,8 @@ Alors, pour rentrer dans le vif du sujet, nous vous conseillons de tester leurs 
 Pour une plus grande faim, le BARQ propose un menu chaque jour. C’est plutôt copieux car l’entrée ressemble plus à un plat. C’est sans prétention car la cuisine est familiale et « traditionnelle ». C’est aussi ce qui nous plaît car il y a un côté très réconfortant et authentique.
 
 
-Pour d’autres adresses dans le quartier du BARQ
+Pour d’autres adresses dans le quartier du [BARQ](https://www.instagram.com/barqalicante/) 
 
 
-Pour découvrir une autre sortie sur le thème de l’archéologie
+Pour découvrir une autre sortie sur le thème de l’archéologie: [Lucentum](https://www.alicanteymas.es/posts/lucentum/).
 
