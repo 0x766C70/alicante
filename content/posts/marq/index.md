@@ -27,9 +27,5 @@ Alors, pour rentrer dans le vif du sujet, nous vous conseillons de tester leurs 
 
 Pour une plus grande faim, le BARQ propose un menu chaque jour. C’est plutôt copieux car l’entrée ressemble plus à un plat. C’est sans prétention car la cuisine est familiale et « traditionnelle ». C’est aussi ce qui nous plaît car il y a un côté très réconfortant et authentique.
 
-
-Pour d’autres adresses dans le quartier du [BARQ](https://www.instagram.com/barqalicante/) 
-
-
 Pour découvrir une autre sortie sur le thème de l’archéologie: [Lucentum](https://www.alicanteymas.es/posts/lucentum/).
 
