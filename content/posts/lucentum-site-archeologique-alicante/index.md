@@ -28,3 +28,5 @@ Si vous aimez la randonnée, je vous invite à découvrir le compte Instagram @r
 À l'issue de cette virée, vous pourrez toujours rejoindre le centre en TRAM si la fatigue se fait sentir.
 
 Hâte de savoir ce que vous en avez pensé !
+
+Et pour découvrir une autre sortie sur le thème de l’archéologie: [Le MARQ](/posts/musee-marq-alicante/).
