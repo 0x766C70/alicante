@@ -11,7 +11,7 @@ title = "Mar, Arroz, Sangria"
   dateFormat = "2 January 2006"
   logo = "profile.png"
   # secondaryLogo = "img/secondary-logo.png"
-  #description = "description to fill"
+  description = "description to fill"
   copyright = "Crée par une famille d'humains avec amour !"
 
 [params.author]
