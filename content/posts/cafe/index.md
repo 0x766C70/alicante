@@ -3,7 +3,7 @@ title = 'Café con leche y tostadas : le rituel du matin à ne pas manquer'
 date = 2026-05-15
 summary = "Découvrez les petits plaisirs d'Alicante : cafés abordables en famille, cafétérias authentiques et pauses soleil à proximité du Castillo Santa Bárbara."
 categories = ["Gastronomie"]
-tags = ["café", "petit-déjeuner", "adresses", "lifestyle", "famille"]
+tags = ["café", "petit-déjeuner", "lifestyle", "famille"]
 draft = false
 +++
 L'habitude qui pour moi traduit le plus la douceur de vivre espagnole est le café con leche y tostada pris en terrasse en milieu de matinée.
