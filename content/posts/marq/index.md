@@ -1,5 +1,5 @@
 +++
-title = "Le MARQ : le musée d'archéologie incontournable"
+title = "Le MARQ : le musée d'archéologie incontournable d'Alicante"
 date = 2026-04-19
 draft = false
 summary = "Visitez le MARQ, musée archéologique familial d’Alicante, et dégustez des bocadillos authentiques sur la terrasse calme du restaurant BARQ."
@@ -28,7 +28,7 @@ Alors, pour rentrer dans le vif du sujet, nous vous conseillons de tester leurs 
 Pour une plus grande faim, le BARQ propose un menu chaque jour. C’est plutôt copieux car l’entrée ressemble plus à un plat. C’est sans prétention car la cuisine est familiale et « traditionnelle ». C’est aussi ce qui nous plaît car il y a un côté très réconfortant et authentique.
 
 
-Pour d’autres adresses dans le quartier du [BARQ](https://www.instagram.com/barqalicante/) 
+Pour d'autres adresses dans le quartier du [BARQ](https://www.instagram.com/barqalicante/), découvrez notre article sur les [cafés du quartier](https://alicanteymas.es/posts/cafe/).
 
 
 Pour découvrir une autre sortie sur le thème de l’archéologie: [Lucentum](https://www.alicanteymas.es/posts/lucentum/).

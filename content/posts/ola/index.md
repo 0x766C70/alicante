@@ -13,8 +13,8 @@ Alicante regorge de musées très chouettes (et souvent gratuits) qui permettent
 
 En centre-ville, deux musées gratuits méritent toute votre attention :
 
-    le musée d'art contemporain (MACA) 
-    le musée des beaux-arts Gravina (MUBAG)
+- le musée d'art contemporain (MACA)
+- le musée des beaux-arts Gravina (MUBAG)
 
 
 {{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
