@@ -24,7 +24,7 @@ En centre-ville, deux musées gratuits méritent toute votre attention :
 
 De notre expérience, ils sont assez peu fréquentés, donc la visite est très agréable. Et si la patience ou l’intérêt de vos enfants atteignent leurs limites, vous aurez tout le loisir de poursuivre ou approfondir la visite une prochaine fois, ces musées étant gratuits. 
 
-Pour une autre idée de musée, découvrez notre article sur le [MARQ](/posts/marq/)
+Pour une autre idée de musée, découvrez notre article sur le [MARQ](/posts/posts/musee-marq-alicante/)
 
 {{< badge >}}
 Credits photos: wikipedia
