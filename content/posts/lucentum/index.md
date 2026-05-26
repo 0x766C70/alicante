@@ -2,7 +2,8 @@
 title = "Lucentum : balade archéologique en famille au cœur de l'ancienne Alicante"
 date = 2026-05-25
 summary = "Lucentum est le cœur de l’ancienne Alicante et l’un des sites archéologiques les plus importants de la Communauté valencienne."
-tags = ["visites", "archéologie", "romains"]
+categories = ["Culture & Musées"]
+tags = ["archéologie", "randonnée", "patrimoine", "famille", "visite"]
 draft = false
 +++
 « Lucentum est le cœur de l’ancienne Alicante et l’un des sites archéologiques les plus importants de la Communauté valencienne. Située dans le Tossal de Manises, à 3 kilomètres du centre-ville et à proximité de la plage d’Albufereta, cette enclave est un voyage dans le temps à l'époque ibéro-romaine. D’une superficie de 5 hectares, dont 2,5 correspondent au noyau urbain de la ville romaine, elle a été déclarée monument historique-artistique en 1961. Le site conserve en excellent état son tracé urbain d'origine, entouré d’un mur d’enceinte de 600 mètres. » [source](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/)
