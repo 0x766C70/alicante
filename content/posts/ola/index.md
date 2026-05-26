@@ -25,6 +25,6 @@ De notre expérience, ils sont assez peu fréquentés, donc la visite est très 
 
 Pour une autre idée de musée, découvrez notre article sur le [MARQ](https://alicanteymas.es/posts/marq/)
 
-{{< button href="https://es.wikipedia.org" >}}
-Crédit photo: wikipedia
-{{< /button >}}
+{{< badge >}}
+Credits photos: wikipedia
+{{< /badge >}}
