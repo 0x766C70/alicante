@@ -53,7 +53,7 @@
   weight = 30
 
 [[main]]
-  name = "À propos de nous !"
+  name = "C'est nous !"
   pageRef = "a-propos-de-nous"
   weight = 90
 

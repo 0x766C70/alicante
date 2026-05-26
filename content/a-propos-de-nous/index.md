@@ -1,6 +1,6 @@
 +++
-title = "A propose de la mifa"
-date = 2026-04-19
+title = "A propos de la mifa"
+date = 2026-04-17
 draft = false
 summary = "la présentation de la mifa."
 categories = ["À propos"]
