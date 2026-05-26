@@ -2,7 +2,7 @@ disabled = false
 locale = "fr"
 label = "French"
 weight = 1
-title = "Alicante y MAS — Suivez une famille française dans la merveilleuse ville d'Alicante"
+title = "Alicante y MAS - Suivez une famille française dans la merveilleuse ville d'Alicante"
 
 [params]
   displayName = "FR"
