@@ -21,8 +21,8 @@ title = "Alicante y MAS - Suivez une famille française dans la merveilleuse vil
    imageQuality = 96
    headline = "La vida alicantina"
    bio = "De Paris à Alicante où l'histoire, la cuisine, la culture et les rires des enfants se mêlent au soleil de la Méditerranée."
-#   links = [
-#     { email = "mailto:hello@your_domain.com" },
+   links = [
+     { email = "mailto:alba@alicanteymas.es" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { apple = "https://www.apple.com" },
@@ -39,7 +39,7 @@ title = "Alicante y MAS - Suivez une famille française dans la merveilleuse vil
 #     { gitlab = "https://gitlab.com/username" },
 #     { google = "https://www.google.com/" },
 #     { hashnode = "https://username.hashnode.dev" },
-#     { instagram = "https://instagram.com/username" },
+     { instagram = "https://instagram.com/alicante.y.mas" },
 #     { itch-io = "https://username.itch.io" },
 #     { keybase = "https://keybase.io/username" },
 #     { keyoxide = "https://keyoxide.org/URI" },
@@ -76,4 +76,4 @@ title = "Alicante y MAS - Suivez une famille française dans la merveilleuse vil
 #     { ko-fi = "https://ko-fi.com/username" },
 #     { codeberg = "https://codeberg.org/username"},
 #     { printables = "https://www.printables.com/@username"},
-#   ]
+   ]
