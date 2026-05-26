@@ -2,7 +2,8 @@
 title = 'Restaurants mexicains : nos adresses favorites'
 date = 2026-04-19
 summary = "Nos restaurants mexicains favoris d'Alicante."
-tags = ["resto", "lifestyle", "tacos", "margarita"]
+categories = ["Gastronomie"]
+tags = ["restaurant", "mexicain", "adresses", "cocktails", "famille"]
 draft = false
 +++
 Nous adorons tous les 5 la cuisine mexicaine et, assez étonnamment, je ne la prépare jamais à la maison alors même que je cuisine énormément (je rêve d’ailleurs de vous faire des billets cuisine).
