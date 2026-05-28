@@ -134,7 +134,7 @@
 
 ### 2.3 · Méta-descriptions (summaries) à affiner
 - **Priorité :** 🟡 MOYEN TERME
-- **Statut :** ☐ À faire
+- **Statut :** ✅ FAIT
 
 | Article | Problème |
 |---|---|
@@ -318,7 +318,7 @@
 | 11 | Enrichir bio auteur + page "À propos" | GEO / E-E-A-T | 🟡 | ☐ |
 | 12 | Ajouter `lastmod` dans les front-matters | Technique | 🟡 | ✅ |
 | 13 | Ajouter sources/liens officiels dans articles | GEO | 🟡 | ☐ |
-| 14 | Récrire summaries problématiques | On-Page | 🟡 | ☐ |
+| 14 | Récrire summaries problématiques | On-Page | 🟡 | ✅ |
 | 15 | "Costa Blanca" dans le contenu des articles | Local SEO | 🟡 | ☐ |
 | 16 | Séries d'articles (ex: "Nos musées préférés") | Éditorial | 🟡 | ☐ |
 | 17 | Schema.org Restaurant/Museum (JSON-LD) | Local SEO | 🟢 | ☐ |

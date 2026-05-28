@@ -3,7 +3,7 @@ title = 'Ola de calor : que faire quand il fait trop chaud ?'
 date = 2026-04-19
 lastmod = 2026-05-28
 draft = false
-summary = "Profitez des musées gratuits d’Alicante (MACA et MUBAG) pour des visites culturelles agréables lors des journées trop chaudes ou pluvieuses."
+summary = "Canicule à Alicante ? Le MACA et le MUBAG, deux musées gratuits en centre-ville, sont la sortie idéale pour toute la famille. Fraîcheur et culture garanties !"
 categories = ["Vie pratique"]
 tags = ["musée", "chaleur", "gratuit", "famille"]
 +++
