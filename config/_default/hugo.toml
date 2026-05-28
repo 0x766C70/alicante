@@ -71,4 +71,4 @@ googleAnalytics = "G-TFG30FJJL2"
 
 [services]
   [services.disqus]
-    shortname = '//alicanteymas.disqus.com/count.js'
+    shortname = 'alicanteymas'
