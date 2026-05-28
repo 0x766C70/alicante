@@ -68,3 +68,7 @@ googleAnalytics = "G-TFG30FJJL2"
       name = 'fragmentrefs'
       type = 'fragments'
       weight = 10
+
+[services]
+  [services.disqus]
+    shortname = '//alicanteymas.disqus.com/count.js'
