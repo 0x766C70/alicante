@@ -1,6 +1,7 @@
 +++
 title = 'Ola de calor : que faire quand il fait trop chaud ?'
 date = 2026-04-19
+lastmod = 2026-05-28
 draft = false
 summary = "Profitez des musées gratuits d’Alicante (MACA et MUBAG) pour des visites culturelles agréables lors des journées trop chaudes ou pluvieuses."
 categories = ["Vie pratique"]
