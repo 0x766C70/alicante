@@ -1,6 +1,7 @@
 +++
 title = "A propos de la mifa"
 date = 2026-04-17
+lastmod = 2020-05-28
 draft = false
 summary = "la présentation de la mifa."
 categories = ["À propos"]
