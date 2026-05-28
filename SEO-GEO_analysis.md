@@ -1,6 +1,6 @@
 # SEO / GEO Analysis — alicanteymas.es
 
-> **Dernière mise à jour :** 2026-05-27
+> **Dernière mise à jour :** 2026-05-28
 > **Analysé par :** Botbot
 > **Version du blog :** 6 articles publiés — Thème Blowfish sur Hugo
 
@@ -29,9 +29,9 @@
 | **Google Analytics** | GA4 `G-TFG30FJJL2` ✅ |
 | **Sitemap** | Auto-généré, hebdomadaire ✅ |
 | **robots.txt** | Configuré avec sitemap ✅ |
-| **Open Graph** | Image par défaut incorrecte 🔴 |
+| **Open Graph** | Image `og-alicanteymas.png` (1200×630) configurée ✅ |
 | **Schema.org** | Breadcrumbs OK — Restaurant/Museum absent 🟡 |
-| **Google Search Console** | Mauvais code de vérification 🔴 |
+| **Google Search Console** | Code de vérification corrigé ✅ |
 
 ---
 
@@ -53,22 +53,19 @@
 
 ### 1.1 · Image Open Graph par défaut inutilisable
 - **Priorité :** 🔴 URGENT
-- **Statut :** ☐ À faire
-- **Fichier :** `config/_default/params.toml`
+- **Statut :** ✅ FAIT
+- **Fichier :** `config/_default/params.toml` + `static/og-alicanteymas.png`
 - **Problème :** `defaultSocialImage = "/android-chrome-512x512.png"` — un favicon 512×512 n'est pas une image OG valide. Les partages sur WhatsApp/Facebook/LinkedIn produisent un aperçu cassé.
-- **Action :** Créer une image `og-alicanteymas.jpg` (1200×630px) et mettre à jour le param : `defaultSocialImage = "/og-alicanteymas.jpg"`
+- **Action :** ~~Créer une image `og-alicanteymas.jpg` (1200×630px) et mettre à jour le param~~ → `og-alicanteymas.png` créée et `defaultSocialImage = "/og-alicanteymas.png"` configuré ✅
 
 ---
 
 ### 1.2 · Mauvais code Google Search Console
 - **Priorité :** 🔴 URGENT
-- **Statut :** ☐ À faire
+- **Statut :** ✅ FAIT
 - **Fichier :** `config/_default/params.toml` → `[verification]`
 - **Problème :** `google = "GTM-KGVJBLJV"` — le champ `google` attend un code GSC (format alphanumérique), pas un ID GTM. Ce sont deux systèmes distincts.
-- **Action :**
-  1. Aller dans [Google Search Console](https://search.google.com/search-console) → propriété `alicanteymas.es`
-  2. Méthode de vérification "Balise HTML" → copier le code alphanumérique
-  3. Coller dans `google = "VOTRE_CODE_GSC"` (remplacer `GTM-KGVJBLJV`)
+- **Action :** ~~Aller dans Google Search Console → copier le code alphanumérique~~ → Corrigé, code GSC `AMIe6cNA7HH...` en place ✅
 
 ---
 
@@ -83,10 +80,10 @@
 
 ### 1.4 · Language Switcher affiché sans raison
 - **Priorité :** 🟡 MOYEN TERME
-- **Statut :** ☐ À faire
+- **Statut :** ✅ FAIT
 - **Fichier :** `config/_default/params.toml`
 - **Problème :** `showLanguageSwitcher = true` mais une seule langue configurée. Nuit à l'UX.
-- **Action :** Passer à `showLanguageSwitcher = false` jusqu'à l'ajout d'une vraie deuxième langue.
+- **Action :** ~~Passer à `showLanguageSwitcher = false`~~ → Corrigé ✅
 
 ---
 
@@ -309,15 +306,15 @@
 | # | Action | Catégorie | Priorité | Statut |
 |---|---|---|---|---|
 | 1 | Titres — ajouter "Alicante" aux 4 articles | On-Page | 🔴 | ☐ |
-| 2 | Créer image OG 1200×630px | Technique | 🔴 | ☐ |
-| 3 | Corriger code Google Search Console | Technique | 🔴 | ☐ |
+| 2 | Créer image OG 1200×630px | Technique | 🔴 | ✅ |
+| 3 | Corriger code Google Search Console | Technique | 🔴 | ✅ |
 | 4 | FAQ dans chaque article (3-5 Q/R) | GEO | 🔴 | ☐ |
 | 5 | Ajouter tags "alicante" / "costa blanca" | On-Page | 🔴 | ☐ |
 | 6 | Remplir `site.webmanifest` (name/short_name) | Technique | 🟡 | ☐ |
 | 7 | Infoboxes "Infos pratiques" dans les articles | GEO | 🟡 | ☐ |
 | 8 | Liens internes croisés (2 min. par article) | On-Page | 🟡 | ☐ |
 | 9 | Enrichir `_index.md` avec texte SEO | On-Page | 🟡 | ☐ |
-| 10 | `showLanguageSwitcher = false` | Technique | 🟡 | ☐ |
+| 10 | `showLanguageSwitcher = false` | Technique | 🟡 | ✅ |
 | 11 | Enrichir bio auteur + page "À propos" | GEO / E-E-A-T | 🟡 | ☐ |
 | 12 | Ajouter `lastmod` dans les front-matters | Technique | 🟡 | ☐ |
 | 13 | Ajouter sources/liens officiels dans articles | GEO | 🟡 | ☐ |
