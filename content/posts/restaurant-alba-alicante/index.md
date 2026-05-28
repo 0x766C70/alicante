@@ -4,7 +4,7 @@ date = 2026-04-19
 lastmod = 2026-05-28
 summary = "Dîner romantique à Alicante : découvrez le restaurant étoilé Alba, avec menu dégustation à 37,50€ et cuisine de la chef Alba Esteve !"
 categories = ["Gastronomie"]
-tags = ["restaurant", "Guide Michelin", "dîner en amoureux" ]
+tags = ["Alicante", "restaurant", "Guide Michelin", "dîner en amoureux" ]
 draft = false
 +++
 Il nous arrive de passer quelques jours à Alicante en amoureux, ce qui nous donne la possibilité de tester de nouvelles adresses !
