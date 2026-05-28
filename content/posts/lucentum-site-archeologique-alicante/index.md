@@ -2,7 +2,7 @@
 title = "Lucentum : balade archéologique en famille au cœur de l'ancienne Alicante"
 date = 2026-05-25
 lastmod = 2026-05-28
-summary = "Lucentum est le cœur de l’ancienne Alicante et l’un des sites archéologiques les plus importants de la Communauté valencienne."
+summary = "À 3 km d'Alicante, Lucentum plonge toute la famille dans l'Antiquité romaine. Randonnée, ruines et plage : une sortie parfaite à ne pas manquer."
 categories = ["Culture & Musées"]
 tags = ["archéologie", "randonnée", "patrimoine", "famille"]
 draft = false

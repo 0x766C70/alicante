@@ -2,7 +2,7 @@
 title = 'Restaurants mexicains : nos adresses favorites'
 date = 2026-04-19
 lastmod = 2026-05-28
-summary = "Tacos, margaritas et guacamole : notre sélection des 3 meilleurs restaurants mexicains à Alicante testés en famille, avec adresses et avis.."
+summary = "Tacos, margaritas et guacamole : notre sélection des 3 meilleurs restaurants mexicains à Alicante testés en famille, avec adresses et avis."
 categories = ["Gastronomie"]
 tags = ["restaurant", "mexicain", "cocktails", "famille"]
 draft = false
