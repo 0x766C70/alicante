@@ -1,6 +1,6 @@
 # SEO / GEO Analysis — alicanteymas.es
 
-> **Dernière mise à jour :** 2026-05-28
+> **Dernière mise à jour :** 2026-05-28 (13:59)
 > **Analysé par :** Botbot
 > **Version du blog :** 6 articles publiés — Thème Blowfish sur Hugo
 
@@ -71,10 +71,10 @@
 
 ### 1.3 · `site.webmanifest` — champs vides
 - **Priorité :** 🟡 MOYEN TERME
-- **Statut :** ☐ À faire
+- **Statut :** ✅ FAIT
 - **Fichier :** `static/site.webmanifest`
-- **Problème :** `"name": ""` et `"short_name": ""` sont vides. Signal de site inachevé pour Google, ajout à l'écran d'accueil mobile impossible.
-- **Action :** Remplir avec `"name": "Alicante y MAS"` et `"short_name": "AlicanteYMAS"`
+- **Problème :** `"name": ""` et `"short_name": ""` étaient vides. Signal de site inachevé pour Google, ajout à l'écran d'accueil mobile impossible.
+- **Action :** ~~Remplir avec `"name": "Alicante y MAS"` et `"short_name": "AlicanteYMAS"`~~ → `"name": "Alicante y MAS"` et `"short_name": "alicanteymas"` configurés ✅
 
 ---
 
@@ -89,10 +89,10 @@
 
 ### 1.5 · `lastmod` absent des front-matters
 - **Priorité :** 🟡 MOYEN TERME
-- **Statut :** ☐ À faire
+- **Statut :** ✅ FAIT
 - **Fichiers :** Tous les `content/posts/*/index.md`
-- **Problème :** `showDateUpdated = true` est activé mais aucun article n'a de champ `lastmod`. Hugo et Google ne peuvent pas détecter les mises à jour.
-- **Action :** Ajouter `lastmod = YYYY-MM-DD` dans le front-matter des articles mis à jour.
+- **Problème :** `showDateUpdated = true` est activé mais aucun article n'avait de champ `lastmod`. Hugo et Google ne pouvaient pas détecter les mises à jour.
+- **Action :** ~~Ajouter `lastmod = YYYY-MM-DD` dans le front-matter des articles mis à jour.~~ → `lastmod = 2026-05-28` ajouté dans les 6 articles et la page "À propos" ✅
 
 ---
 
@@ -310,13 +310,13 @@
 | 3 | Corriger code Google Search Console | Technique | 🔴 | ✅ |
 | 4 | FAQ dans chaque article (3-5 Q/R) | GEO | 🔴 | ☐ |
 | 5 | Ajouter tags "alicante" / "costa blanca" | On-Page | 🔴 | ☐ |
-| 6 | Remplir `site.webmanifest` (name/short_name) | Technique | 🟡 | ☐ |
+| 6 | Remplir `site.webmanifest` (name/short_name) | Technique | 🟡 | ✅ |
 | 7 | Infoboxes "Infos pratiques" dans les articles | GEO | 🟡 | ☐ |
 | 8 | Liens internes croisés (2 min. par article) | On-Page | 🟡 | ☐ |
 | 9 | Enrichir `_index.md` avec texte SEO | On-Page | 🟡 | ☐ |
 | 10 | `showLanguageSwitcher = false` | Technique | 🟡 | ✅ |
 | 11 | Enrichir bio auteur + page "À propos" | GEO / E-E-A-T | 🟡 | ☐ |
-| 12 | Ajouter `lastmod` dans les front-matters | Technique | 🟡 | ☐ |
+| 12 | Ajouter `lastmod` dans les front-matters | Technique | 🟡 | ✅ |
 | 13 | Ajouter sources/liens officiels dans articles | GEO | 🟡 | ☐ |
 | 14 | Récrire summaries problématiques | On-Page | 🟡 | ☐ |
 | 15 | "Costa Blanca" dans le contenu des articles | Local SEO | 🟡 | ☐ |
