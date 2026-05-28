@@ -60,13 +60,13 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showRecentItems = 10
   showMoreLink = false
   showMoreLinkDest = "/alicante/posts/"
-  showComments = true
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background
   disableHeroImageFilter = true # only used when layout equals hero
 
 [article]
+  showComments = true
   showDate = true
   showViews = false
   showLikes = false
