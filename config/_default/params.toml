@@ -17,6 +17,7 @@ enableStructuredBreadcrumbs = true
 
 replyByEmail = false
 
+showComments = true
 # mainSections = ["section1", "section2"]
 # robots = ""
 
@@ -99,7 +100,6 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
   showWordCount = true
   sharingLinks = [ "mastodon", "reddit", "pinterest", "email", "whatsapp", "facebook" ]
   showZenMode = false
-  showComments = true
   # externalLinkForceNewTab = false # disable to allow external links in the same tab (defaults to true)
 
 [list]
