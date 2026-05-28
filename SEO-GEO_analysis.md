@@ -98,10 +98,10 @@
 
 ### 1.6 · Sitemap — priorité plate (0.5) pour toutes les pages
 - **Priorité :** 🟢 LONG TERME
-- **Statut :** ☐ À faire
-- **Fichier :** `config/_default/hugo.toml`
-- **Problème :** Tous les contenus ont la même priorité. Aucune hiérarchie signalée à Google.
-- **Action :** Créer `layouts/sitemap.xml` avec une logique de priorité différenciée (articles piliers > articles standards > pages système).
+- **Statut :** ✅ FAIT
+- **Fichier :** `layouts/sitemap.xml` (créé)
+- **Problème :** Tous les contenus avaient la même priorité. Aucune hiérarchie signalée à Google.
+- **Action :** ~~Créer `layouts/sitemap.xml` avec une logique de priorité différenciée~~ → Template custom créé avec : accueil `1.0`, articles piliers (param `pilier = true`) `0.9`, articles standards `0.8`, pages statiques `0.6`, taxonomies `0.4` ✅
 
 ---
 
@@ -324,7 +324,7 @@
 | 17 | Schema.org Restaurant/Museum (JSON-LD) | Local SEO | 🟢 | ☐ |
 | 18 | Vérifier/créer `BlogPosting` structured data | GEO | 🟢 | ☐ |
 | 19 | Alt text sur images de galeries | Technique | 🟢 | ☐ |
-| 20 | Priorités différenciées dans le sitemap | Technique | 🟢 | ☐ |
+| 20 | Priorités différenciées dans le sitemap | Technique | 🟢 | ✅ |
 | 21 | 7+ nouveaux articles sujets piliers | Éditorial | 🟢 | ☐ |
 | 22 | Nouvelles catégories ("Avec les enfants", etc.) | Éditorial | 🟢 | ☐ |
 
