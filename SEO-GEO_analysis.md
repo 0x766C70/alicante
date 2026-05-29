@@ -1,6 +1,6 @@
 # SEO / GEO Analysis — alicanteymas.es
 
-> **Dernière mise à jour :** 2026-05-28 (14:36)
+> **Dernière mise à jour :** 2026-05-29 (09:45)
 > **Analysé par :** Botbot
 > **Objectif de ranking :** `alicante famille`
 > **Version du blog :** 6 articles publiés — Thème Blowfish sur Hugo
@@ -33,8 +33,9 @@
 | **Schema.org** | Breadcrumbs OK — Restaurant/Museum absent 🟡 |
 | **Google Search Console** | Code de vérification corrigé ✅ |
 | **`lastmod`** | Présent dans les 6 articles ✅ |
-| **Tags "alicante"** | Tous les articles ✅ — "costa blanca" absent 🟡 |
+| **Tags "alicante"** | Tous les articles ✅ |
 | **Titres avec "Alicante"** | 6/6 articles ✅ |
+| **Liens internes** | Partiellement maillés (4 liens ajoutés) 🟡 |
 
 ---
 
@@ -58,23 +59,14 @@
 
 ## CATÉGORIE 1 — SEO On-Page
 
-### 1.1 · Lien interne cassé dans `que-faire-chaleur-alicante`
-- **Priorité :** 🔴 URGENT
-- **Fichier :** `content/posts/que-faire-chaleur-alicante/index.md`
-- **Problème :** Le lien vers le MARQ pointe sur `/posts/posts/musee-marq-alicante/` (double "posts") — 404 garanti. Un lien cassé nuit au crawl et à l'UX.
-- **Action :** Corriger en `/posts/musee-marq-alicante/`.
-
----
-
-### 1.2 · Tags — "costa blanca" absent de tous les articles
-- **Priorité :** 🔴 URGENT
+### 1.1 · Liens internes — maillage incomplet
+- **Priorité :** 🟡 MOYEN TERME
 - **Fichiers :** Tous les `content/posts/*/index.md`
-- **Problème :** "costa blanca" n'est tag dans aucun article alors que c'est le second mot-clé géographique central du blog. La page de tag `/tags/costa-blanca/` n'existe pas.
-- **Action :** Ajouter `"costa blanca"` dans les tags de tous les articles géographiques/famille : Lucentum, MARQ, que-faire-chaleur, café con leche.
-
----
-
-### 1.3 · Liens internes — maillage quasi inexistant
+- **Problème :** Le maillage entre articles de gastronomie est encore inexistant. Les liens culture (MARQ ↔ Lucentum ↔ que-faire-chaleur) ont été ajoutés mais les restaurants sont des îles isolées.
+- **Action :** Ajouter les liens manquants :
+  - `cafe-con-leche` → lier vers `restaurants-mexicains` ("pour continuer la découverte gastronomique…")
+  - `restaurants-mexicains` → lier vers `restaurant-alba`
+  - `restaurant-alba` → lier vers `restaurants-mexicains`
 - **Priorité :** 🟡 MOYEN TERME
 - **Fichiers :** Tous les `content/posts/*/index.md`
 - **Problème :** Seul `que-faire-chaleur` a un lien interne (vers le MARQ — mais cassé). Zéro lien dans les 5 autres articles. Un maillage faible empêche Google de comprendre la hiérarchie du site.
@@ -87,15 +79,15 @@
 
 ---
 
-### 1.4 · Page d'accueil `_index.md` quasi vide
+### 1.2 · Page d'accueil `_index.md` quasi vide
 - **Priorité :** 🟡 MOYEN TERME
 - **Fichier :** `content/_index.md`
 - **Problème :** Contient uniquement un titre. C'est la page la mieux positionnée du site et le premier signal sémantique pour Google — elle ne dit rien sur "Alicante" ni "famille".
-- **Action :** Ajouter 2-3 paragraphes naturels avec : "famille française à Alicante", "vie à la Costa Blanca", "blog de la Mifa expatriée", "Casa Azul", "activités en famille", "alicante avec enfants".
+- **Action :** Ajouter 2-3 paragraphes naturels avec : "famille française à Alicante", "blog de la Mifa expatriée", "Casa Azul", "activités en famille", "alicante avec enfants".
 
 ---
 
-### 1.5 · Tag "famille" manquant sur `restaurant-alba`
+### 1.3 · Tag "famille" manquant sur `restaurant-alba`
 - **Priorité :** 🟡 MOYEN TERME
 - **Fichier :** `content/posts/restaurant-alba-alicante/index.md`
 - **Problème :** Le tag "famille" est absent de cet article alors qu'il est présent dans 5/6 articles. La page de tag `/tags/famille/` perd un article.
@@ -103,7 +95,7 @@
 
 ---
 
-### 1.6 · Alt text des images — absent sur les galeries
+### 1.4 · Alt text des images — absent sur les galeries
 - **Priorité :** 🟢 LONG TERME
 - **Problème :** Le shortcode `{{< carousel images="gallery/*" >}}` ne passe pas d'attribut `alt`. Toutes les images de galerie sont invisibles pour Google Images et les lecteurs d'écran.
 - **Action :**
@@ -114,29 +106,22 @@
 
 ## CATÉGORIE 2 — Local SEO (signaux géographiques)
 
-### 2.1 · "Costa Blanca" absent du corps des articles
-- **Priorité :** 🟡 MOYEN TERME
-- **Problème :** "Costa Blanca" n'apparaît nulle part dans le corps des articles — ni les intros, ni les corps de texte. Le signal géographique est inexistant pour les requêtes "costa blanca famille".
-- **Action :** Intégrer "Costa Blanca" naturellement dans les intros des articles à fort ancrage géographique (Lucentum, que-faire-chaleur, café con leche). Exemple : *"À Alicante, sur la Costa Blanca..."*
-
----
-
-### 2.2 · Schema.org Restaurant/Museum absent
+### 2.1 · Schema.org Restaurant/Museum absent
 - **Priorité :** 🟢 LONG TERME
 - **Problème :** Pas de balisage structuré pour les établissements locaux. Google et Maps ne peuvent pas extraire automatiquement les infos. Impact fort pour les recherches "restaurant alicante famille" ou "musée alicante enfants".
 - **Action :** Créer `layouts/partials/schema-local.html` avec JSON-LD `Restaurant` / `Museum` / `TouristAttraction` (avec `audience: families`) et l'inclure dans les articles concernés.
 
 ---
 
-### 2.3 · Catégorie "Vie pratique" sous-exploitée
+### 2.2 · Catégorie "Vie pratique" sous-exploitée
 - **Priorité :** 🟢 LONG TERME
 - **Problème :** Une seule page dans la catégorie la plus cherchée par les familles planifiant un séjour ou une expatriation.
 - **Sujets à fort potentiel :**
   - "vivre à Alicante en famille"
   - "transports Alicante TRAM avec enfants"
-  - "Costa Blanca avec enfants : notre guide"
   - "médecin Alicante expatriés"
   - "école française Alicante"
+  - "quartiers d'Alicante pour les familles"
 
 ---
 
@@ -211,7 +196,7 @@
   - **Slug :** `/posts/alicante-en-famille/`
   - **Contenu :** musées (MARQ, Lucentum, MACA/MUBAG), plages accessibles, restaurants family-friendly, TRAM, budget, conseils pratiques
   - **Liens internes :** vers les 5 articles famille existants
-  - **Tags :** `["alicante", "famille", "enfants", "costa blanca", "activités"]`
+  - **Tags :** `["alicante", "famille", "enfants", "activités"]`
   - **Param :** `pilier = true` (pour le sitemap custom)
 
 ---
@@ -269,6 +254,7 @@
 | "Marché central d'Alicante" | Moyen | Moyen | Gastronomie |
 | "Fêtes de San Juan à Alicante" | Moyen | Moyen | Culture & Musées |
 | "Playa de San Juan : notre plage de famille" | Très fort | Fort | Avec les enfants |
+| "Alicante à Pâques en famille" | Très fort | Fort | Avec les enfants |
 
 ---
 
@@ -279,30 +265,74 @@
 
 ---
 
+## CATÉGORIE 6 — Signaux "Alicante Famille" manquants en configuration
+
+### 6.1 · Description du site — "famille" absent, "Costa Blanca" présent
+- **Priorité :** 🔴 URGENT
+- **Fichier :** `config/_default/languages.fr.toml`
+- **Problème :** La `description` du site dit actuellement "entre la Costa Blanca et la Casa Azul" — le mot "famille" n'y figure pas et "Costa Blanca" dilue le signal Alicante. C'est le meta-signal global lu par Google pour définir le sujet du site.
+- **Action :** Réécrire la description pour ancrer le triptyque cible : `"Un blog de famille française à Alicante : musées, restaurants, plages et vie quotidienne avec enfants sous le soleil méditerranéen."`
+
+---
+
+### 6.2 · Articles saisonniers "Alicante en famille" — pic de recherche non capté
+- **Priorité :** 🟡 MOYEN TERME
+- **Problème :** Les requêtes "alicante famille" et "alicante enfants" explosent aux périodes de vacances scolaires françaises (Pâques, juillet-août, Toussaint). Zéro article ciblant ces pics saisonniers — un manque à gagner de trafic considérable.
+- **Action :** Rédiger en priorité :
+  - `"Alicante à Pâques en famille"` — à publier au moins 3 semaines avant les vacances
+  - `"Que faire à Alicante en été avec des enfants"` — à publier en juin
+  - Intégrer les dates de fêtes locales (Hogueras de San Juan, Semana Santa) dans les titres et intros
+
+---
+
+### 6.3 · Longue traîne "alicante famille" — mots-clés secondaires non couverts
+- **Priorité :** 🟡 MOYEN TERME
+- **Problème :** La requête "alicante famille" est compétitive. Les variantes longue traîne sont moins disputées et convertissent mieux car l'intention est précise. Aucun article ne cible explicitement ces formulations.
+- **Action :** Intégrer naturellement dans les titres, H2 et intros des articles existants et futurs :
+  - "alicante avec enfants"
+  - "vacances alicante famille"
+  - "que faire à alicante avec les enfants"
+  - "alicante expat famille"
+  - "activités alicante enfants gratuit"
+
+---
+
+### 6.4 · Stratégie de netlinking — zéro backlink identifié
+- **Priorité :** 🟢 LONG TERME
+- **Problème :** L'autorité de domaine du site est faible. Pour ranker durablement sur "alicante famille", Google a besoin de voir que d'autres sites de confiance citent alicanteymas.es.
+- **Action :**
+  1. Partager les articles piliers dans des groupes Facebook d'expats français en Espagne (plusieurs milliers de membres)
+  2. Soumettre le blog à des annuaires de blogs famille/voyage francophones
+  3. Répondre à des questions sur TripAdvisor, Lonely Planet forums, expat.com avec un lien contextuel vers l'article le plus pertinent
+  4. Contacter des blogueurs voyage famille pour un échange de liens ou un article invité
+
+---
+
 ## Tableau de bord récapitulatif
 
 | # | Action | Catégorie | Priorité |
 |---|---|---|---|
-| 1 | Corriger le lien cassé `/posts/posts/...` dans que-faire-chaleur | On-Page | 🔴 |
-| 2 | Ajouter tag "costa blanca" aux articles géographiques | On-Page | 🔴 |
-| 3 | FAQ dans chaque article (3-5 Q/R orientées famille) | GEO | 🔴 |
-| 4 | Article pilier "Alicante en famille" (1500+ mots) | Famille 🎯 | 🔴 |
-| 5 | Enrichir `_index.md` avec texte SEO famille | On-Page | 🟡 |
-| 6 | "En famille" dans les H2 des articles existants | Famille 🎯 | 🟡 |
-| 7 | Phrase "Alicante en famille" dans les intros/conclusions | Famille 🎯 | 🟡 |
-| 8 | Créer la catégorie "Avec les enfants" + `_index.md` | Famille 🎯 | 🟡 |
-| 9 | Ajouter tag "famille" sur restaurant-alba | On-Page | 🟡 |
-| 10 | Liens internes croisés (2 min. par article) | On-Page | 🟡 |
-| 11 | "Costa Blanca" dans le corps des articles | Local SEO | 🟡 |
-| 12 | Infoboxes "Infos pratiques" avec champ "Adapté familles" | GEO | 🟡 |
-| 13 | Ajouter sources/liens officiels dans articles | GEO | 🟡 |
-| 14 | Enrichir bio auteur + page "À propos" (E-E-A-T) | GEO | 🟡 |
-| 15 | Série "Alicante en famille" (Blowfish series) | Famille 🎯 | 🟡 |
-| 16 | Série "Nos musées préférés" | Éditorial | 🟡 |
-| 17 | 7+ nouveaux articles sujets piliers (priorité plages + château) | Éditorial | 🟢 |
+| 1 | Réécrire la description du site (languages.fr.toml) avec "famille" et "Alicante" | Config | 🔴 |
+| 2 | FAQ dans chaque article (3-5 Q/R orientées famille) | GEO | 🔴 |
+| 3 | Article pilier "Alicante en famille" (1500+ mots) | Famille 🎯 | 🔴 |
+| 4 | Ajouter tag "famille" sur restaurant-alba | On-Page | 🟡 |
+| 5 | Liens internes manquants (cafe→mexicains, mexicains→alba, alba→mexicains) | On-Page | 🟡 |
+| 6 | Enrichir `_index.md` avec texte SEO famille | On-Page | 🟡 |
+| 7 | "En famille" dans les H2 des articles existants | Famille 🎯 | 🟡 |
+| 8 | Phrase "Alicante en famille" dans les intros/conclusions | Famille 🎯 | 🟡 |
+| 9 | Créer la catégorie "Avec les enfants" + `_index.md` | Famille 🎯 | 🟡 |
+| 10 | Infoboxes "Infos pratiques" avec champ "Adapté familles" | GEO | 🟡 |
+| 11 | Ajouter sources/liens officiels dans articles | GEO | 🟡 |
+| 12 | Enrichir bio auteur + page "À propos" (E-E-A-T) | GEO | 🟡 |
+| 13 | Série "Alicante en famille" (Blowfish series) | Famille 🎯 | 🟡 |
+| 14 | Série "Nos musées préférés" | Éditorial | 🟡 |
+| 15 | Articles saisonniers : "Alicante à Pâques" et "Alicante en été en famille" | Config | 🟡 |
+| 16 | Longue traîne : intégrer variantes "alicante avec enfants" dans titres et H2 | Famille 🎯 | 🟡 |
+| 17 | 7+ nouveaux articles sujets piliers (priorité plages + château + saisonnier) | Éditorial | 🟢 |
 | 18 | Schema.org Restaurant/Museum/TouristAttraction (JSON-LD) | Local SEO | 🟢 |
 | 19 | Vérifier/créer `BlogPosting` structured data | GEO | 🟢 |
 | 20 | Alt text sur images de galeries | Technique | 🟢 |
+| 21 | Stratégie netlinking : groupes expats, annuaires, TripAdvisor | Netlinking | 🟢 |
 
 ---
 
