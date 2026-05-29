@@ -57,7 +57,7 @@ Absolument, et c'est même ce qu'on recommande. La playa de l'Albufereta est à 
 Le TRAM est l'option la plus simple. Vous pouvez aussi y aller entièrement à pied depuis le centre : par la Serra Grossa (depuis La Goteta) ou par la vía verde de la cantera le long de la mer depuis le Postiguet — les deux itinéraires sont décrits ci-dessus.
 
 **Combien de temps prévoir pour la visite ?**
-Comptez 1h à 1h30 pour visiter le site tranquillement. Si vous coulez la randonnée et la plage, prévoyez une demi-journée complète.
+Comptez 1h à 1h30 pour visiter le site tranquillement. Si vous couplez la randonnée et la plage, prévoyez une demi-journée complète.
 
 **Y a-t-il des événements en famille à Lucentum ?**
 Oui ! Le site organise parfois des reconstitutions historiques avec des acteurs — une expérience vraiment magique pour les enfants. Consultez le [site d'Alicante Tourisme](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/) pour les prochaines dates.
