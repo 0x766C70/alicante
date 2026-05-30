@@ -6,8 +6,12 @@ summary = "À 3 km d'Alicante, Lucentum plonge toute la famille dans l'Antiquit�
 categories = ["Culture & Musées", "Avec les enfants"]
 tags = ["Alicante", "archéologie", "randonnée", "patrimoine", "famille"]
 series = ["Nos musées préférés", "Alicante en famille"]
+series_order: 1
 draft = false
 +++
+
+## Lucentum, las ruinas de la ciudad romana de Alicante.
+
 « Lucentum est le cœur de l’ancienne Alicante et l’un des sites archéologiques les plus importants de la Communauté valencienne. Située dans le Tossal de Manises, à 3 kilomètres du centre-ville et à proximité de la plage d’Albufereta, cette enclave est un voyage dans le temps à l'époque ibéro-romaine. D’une superficie de 5 hectares, dont 2,5 correspondent au noyau urbain de la ville romaine, elle a été déclarée monument historique-artistique en 1961. Le site conserve en excellent état son tracé urbain d'origine, entouré d’un mur d’enceinte de 600 mètres. » [source](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/)
 {{< carousel images="gallery_lucentum/*" aspectRatio="21-9" interval="2500" >}}
 
@@ -31,6 +35,8 @@ Si vous aimez la randonnée, je vous invite à découvrir le compte Instagram @r
 
 À l'issue de cette virée, vous pourrez toujours rejoindre le centre en TRAM si la fatigue se fait sentir.
 
+Hâte de savoir ce que vous en avez pensé !
+
 ## Infos pratiques
 
 | | |
@@ -40,8 +46,6 @@ Si vous aimez la randonnée, je vous invite à découvrir le compte Instagram @r
 | **Adapté aux familles** | Oui — site en plein air, terrain accessible, gratuit pour les moins de 8ans |
 | **Transport** | TRAM L3 – L4 – L5 (Lucentum) |
 | **Site officiel** | [alicanteturismo.com](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/) |
-
-Hâte de savoir ce que vous en avez pensé !
 
 Et pour découvrir une autre sortie sur le thème de l'archéologie: [Le MARQ](/posts/musee-marq-alicante/).
 
