@@ -35,10 +35,10 @@ Si vous aimez la randonnée, je vous invite à découvrir le compte Instagram @r
 
 | | |
 |---|---|
-| **Adresse** | Tossal de Manises, Albufereta, Alicante |
-| **Entrée** | Gratuite |
-| **Adapté aux familles** | Oui — site en plein air, terrain accessible |
-| **Transport** | TRAM + sentier depuis La Goteta / vía verde depuis le Postiguet |
+| **Adresse** | C/ Zeus s/n, 03016, Alicante |
+| **Entrée** | 3’00€. (Dimanches et jours fériés 1,50 €) |
+| **Adapté aux familles** | Oui — site en plein air, terrain accessible, gratuit pour les moins de 8ans |
+| **Transport** | TRAM L3 – L4 – L5 (Lucentum) |
 | **Site officiel** | [alicanteturismo.com](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/) |
 
 Hâte de savoir ce que vous en avez pensé !
@@ -60,4 +60,4 @@ Le TRAM est l'option la plus simple. Vous pouvez aussi y aller entièrement à p
 Comptez 1h à 1h30 pour visiter le site tranquillement. Si vous couplez la randonnée et la plage, prévoyez une demi-journée complète.
 
 **Y a-t-il des événements en famille à Lucentum ?**
-Oui ! Le site organise parfois des reconstitutions historiques avec des acteurs — une expérience vraiment magique pour les enfants. Consultez le [site d'Alicante Tourisme](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/) pour les prochaines dates.
+Oui ! Le site organise parfois des reconstitutions historiques avec des acteurs — une expérience vraiment magique pour les enfants comme vous le voyez sur les photos plus haut. Consultez le [site d'Alicante Tourisme](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/) pour les prochaines dates.
