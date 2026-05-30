@@ -6,7 +6,7 @@ summary = "À 3 km d'Alicante, Lucentum plonge toute la famille dans l'Antiquit�
 categories = ["Culture & Musées", "Avec les enfants"]
 tags = ["Alicante", "archéologie", "randonnée", "patrimoine", "famille"]
 series = ["Nos musées préférés", "Alicante en famille"]
-series_order: 1
+series_order = 1
 draft = false
 +++
 
