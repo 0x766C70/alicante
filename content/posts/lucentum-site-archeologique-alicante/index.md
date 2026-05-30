@@ -43,8 +43,8 @@ Hâte de savoir ce que vous en avez pensé !
 |---|---|
 | **Adresse** | C/ Zeus s/n, 03016, Alicante |
 | **Entrée** | 3’00€. (Dimanches et jours fériés 1,50 €) |
-| **Adapté aux familles** | Oui — site en plein air, terrain accessible, gratuit pour les moins de 8ans |
-| **Transport** | TRAM L3 – L4 – L5 (Lucentum) |
+| **Adapté aux familles** | Oui, le site est en plein air et le terrain accessible facilement (même pour les poussettes), gratuit pour les moins de 8ans |
+| **Transport** | TRAM L3 - L4 - L5 (Lucentum) |
 | **Site officiel** | [alicanteturismo.com](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/) |
 
 Et pour découvrir une autre sortie sur le thème de l'archéologie: [Le MARQ](/posts/musee-marq-alicante/).
@@ -52,16 +52,16 @@ Et pour découvrir une autre sortie sur le thème de l'archéologie: [Le MARQ](/
 ## Questions fréquentes
 
 **À partir de quel âge peut-on visiter Lucentum ?**
-Dès le plus jeune âge ! C'est un site en plein air, sans barrières contraignantes. Les enfants adorent courir entre les ruines et imaginer la vie des Romains — les nôtres en tout cas ne s'en lassent pas.
+Dès le plus jeune âge ! C'est un site en plein air, sans barrières contraignantes. Les enfants adorent courir entre les ruines et imaginer la vie des Romains — les nôtres en tout cas ne s'en lassent pas. Les graviers de couleur au sol permettent vraiement aux plus jeunes de s'imaginer la ville.
 
 **Peut-on combiner la visite avec la plage ?**
 Absolument, et c'est même ce qu'on recommande. La playa de l'Albufereta est à deux pas du site. Prévoyez maillots de bain et serviettes dans le sac à dos et faites-en une vraie journée.
 
 **Comment accéder à Lucentum en famille sans voiture ?**
-Le TRAM est l'option la plus simple. Vous pouvez aussi y aller entièrement à pied depuis le centre : par la Serra Grossa (depuis La Goteta) ou par la vía verde de la cantera le long de la mer depuis le Postiguet — les deux itinéraires sont décrits ci-dessus.
+Le TRAM est l'option la plus simple. Vous pouvez aussi y aller entièrement à pied depuis le centre : par la Serra Grossa (depuis La Goteta) ou par la vía verde de la cantera le long de la mer depuis le Postiguet.
 
 **Combien de temps prévoir pour la visite ?**
 Comptez 1h à 1h30 pour visiter le site tranquillement. Si vous couplez la randonnée et la plage, prévoyez une demi-journée complète.
 
 **Y a-t-il des événements en famille à Lucentum ?**
-Oui ! Le site organise parfois des reconstitutions historiques avec des acteurs — une expérience vraiment magique pour les enfants comme vous le voyez sur les photos plus haut. Consultez le [site d'Alicante Tourisme](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/) pour les prochaines dates.
+Oui ! Le site organise parfois des reconstitutions historiques avec des acteurs, une expérience vraiment magique pour les enfants comme vous le voyez sur les photos plus haut. Consultez le [site d'Alicante Tourisme](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/) pour les prochaines dates.
