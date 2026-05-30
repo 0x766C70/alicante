@@ -52,7 +52,7 @@ Et pour découvrir une autre sortie sur le thème de l'archéologie: [Le MARQ](/
 ## Questions fréquentes
 
 **À partir de quel âge peut-on visiter Lucentum ?**
-Dès le plus jeune âge ! C'est un site en plein air, sans barrières contraignantes. Les enfants adorent courir entre les ruines et imaginer la vie des Romains — les nôtres en tout cas ne s'en lassent pas. Les graviers de couleur au sol permettent vraiement aux plus jeunes de s'imaginer la ville.
+Dès le plus jeune âge ! C'est un site en plein air, sans barrières contraignantes. Les enfants adorent courir entre les ruines et imaginer la vie des Romains, les nôtres en tout cas ne s'en lassent pas. Les graviers de couleur au sol permettent vraiement aux plus jeunes de s'imaginer la ville.
 
 **Peut-on combiner la visite avec la plage ?**
 Absolument, et c'est même ce qu'on recommande. La playa de l'Albufereta est à deux pas du site. Prévoyez maillots de bain et serviettes dans le sac à dos et faites-en une vraie journée.
