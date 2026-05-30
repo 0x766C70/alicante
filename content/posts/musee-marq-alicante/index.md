@@ -41,8 +41,8 @@ Pour une plus grande faim, le BARQ propose un menu chaque jour. C'est plutôt co
 | | |
 |---|---|
 | **Adresse** | Plaza Dr. Gómez Ulla s/n, 03013 Alicante |
-| **Entrée** | Collection permanente gratuite. Expositions temporaires : ~3€ / réduit ~1,50€ (tarifs indicatifs — voir site officiel) |
-| **Adapté aux familles** | Oui — tout est interactif et à hauteur des enfants, abonnement Amigo disponible |
+| **Entrée** | 5€, tarif réduit 3€ |
+| **Adapté aux familles** | Oui — tout est interactif, à partir de 3ans ils sont assez "haut" pour voir dans les vitrines|
 | **Transport** | TRAM L3-L4-L5 — Station MARQ-Castillo |
 | **Site officiel** | [marqalicante.com](https://www.marqalicante.com/es/) |
 
@@ -55,14 +55,8 @@ Et si vous cherchez d'autres idées pour occuper la Mifa quand le soleil tape fo
 **Le MARQ est-il adapté aux enfants ?**
 Absolument — c'est même l'un de ses plus grands atouts. La collection permanente est entièrement interactive et conçue à hauteur des enfants. Pas besoin de savoir lire ni de comprendre l'espagnol pour en profiter pleinement. Les nôtres y reviennent à chaque séjour sans jamais se lasser.
 
-**À partir de quel âge peut-on visiter le MARQ ?**
-Dès tout-petit ! La scénographie très visuelle et le format interactif fonctionnent même avec les plus jeunes. Comptez environ 1h à 1h30 pour une visite tranquille avec des enfants.
-
 **Comment accéder au MARQ en famille sans voiture ?**
-Le plus simple : le TRAM. Descendre à la station MARQ-Castillo (lignes L3, L4 ou L5) et c'est à deux pas. Pratique avec une poussette ou des enfants qui traînent les pieds en fin de journée.
-
-**Qu'est-ce que l'offre Amigo du MARQ ?**
-C'est un abonnement annuel qui donne accès illimité au musée et à ses expositions temporaires — idéal si vous venez régulièrement à Alicante ou si vous êtes résidents. C'est ce que nous avons fait et on ne le regrette pas du tout. Toutes les infos sur le [site officiel du MARQ](https://www.marqalicante.com/es/).
+Le plus simple : le TRAM. Descendre à la station MARQ-Castillo (lignes L3, L4 ou L5) et c'est à deux pas. Pratique avec une poussette ou des enfants qui traînent les pieds en fin de journée. Sinon, on y accède aussi en 30mn à pied depuis le centre ville.
 
 **Peut-on déjeuner sur place avec les enfants ?**
 Oui, et c'est même fortement conseillé ! Le restaurant BARQ dispose d'une terrasse extérieure calme où les enfants peuvent se dégourdir les jambes après la visite. Les bocadillos sont délicieux et le menu du jour très correct — tout ça dans une des terrasses les plus agréables de la ville.
