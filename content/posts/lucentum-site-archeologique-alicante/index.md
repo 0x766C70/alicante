@@ -5,7 +5,7 @@ lastmod = 2026-05-29
 summary = "À 3 km d'Alicante, Lucentum plonge toute la famille dans l'Antiquité romaine. Randonnée, ruines et plage : une sortie parfaite à Alicante en famille, à ne pas manquer."
 categories = ["Culture & Musées", "Avec les enfants"]
 tags = ["Alicante", "archéologie", "randonnée", "patrimoine", "famille"]
-series = ["Nos musées préférés", "Alicante en famille"]
+series = ["Nos musées préférés"]
 series_order = 1
 draft = false
 +++
