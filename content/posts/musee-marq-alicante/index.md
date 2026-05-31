@@ -49,8 +49,6 @@ Pour une plus grande faim, le BARQ propose un menu chaque jour. C'est plutôt co
 
 Pour découvrir une autre sortie sur le thème de l'archéologie : [Lucentum](/posts/lucentum-site-archeologique-alicante/).
 
-Et si vous cherchez d'autres idées pour occuper la Mifa quand le soleil tape fort : [Que faire à Alicante quand il fait (trop) chaud ?](/posts/que-faire-chaleur-alicante/)
-
 ## Les questions qu’on s’est posées
 
 **Le MARQ est-il adapté aux enfants ?**

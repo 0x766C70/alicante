@@ -2,7 +2,7 @@
 title = 'Ola de calor: que faire à Alicante quand il fait trop chaud ?'
 date = 2026-04-19
 lastmod = 2026-05-28
-draft = false
+draft = true
 summary = "Canicule à Alicante ? Le MACA et le MUBAG, deux musées gratuits en centre-ville, sont la sortie idéale pour toute la famille. Fraîcheur et culture garanties !"
 categories = ["Vie pratique"]
 tags = ["Alicante", "musée", "chaleur", "gratuit", "famille"]
