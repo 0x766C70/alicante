@@ -60,5 +60,5 @@ Absolument — c'est même l'un de ses plus grands atouts. La collection permane
 Le plus simple : le TRAM. Descendre à la station MARQ-Castillo (lignes L3, L4 ou L5) et c'est à deux pas. Pratique avec une poussette ou des enfants qui traînent les pieds en fin de journée. Sinon, on y accède aussi en 30mn à pied depuis le centre ville.
 
 **Peut-on déjeuner sur place avec les enfants ?**
-Oui, et c'est même fortement conseillé ! Le restaurant BARQ dispose d'une terrasse extérieure calme où les enfants peuvent se dégourdir les jambes après la visite. Les bocadillos sont délicieux et le menu du jour très correct — tout ça dans une des terrasses les plus agréables de la ville.
+Oui, et c'est même fortement conseillé ! Le BARQ dispose d'une terrasse extérieure calme où les enfants peuvent se dégourdir les jambes après la visite. L'enceinte permet aussi de les laisser jouer en sécurité pendant que les adultes profitent du soleil avec un verre.
 
