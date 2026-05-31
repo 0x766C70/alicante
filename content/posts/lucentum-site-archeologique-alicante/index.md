@@ -31,7 +31,7 @@ La première est de vous y rendre à pied via la « montagne ». Il y a un senti
 
 Donc, si vous planifiez une visite du site de Lucentum, je vous conseille d'en profiter pour la coupler avec une mini randonnée et un moment détente au bord de l'eau à la playa de l'Albufereta ou dans une cala. C'est vraiment l'une de nos sorties préférées à Alicante en famille !
 
-Si vous aimez la randonnée, je vous invite à découvrir le compte Instagram @rutasalicante qui est un vrai régal !
+Si vous aimez la randonnée, je vous invite à découvrir le compte Instagram [Rutas Alicante {{< icon "instagram" >}}](https://www.instagram.com/rutasalicante/) qui est un vrai régal !
 
 À l'issue de cette virée, vous pourrez toujours rejoindre le centre en TRAM si la fatigue se fait sentir.
 
@@ -49,7 +49,7 @@ Hâte de savoir ce que vous en avez pensé !
 
 Et pour découvrir une autre sortie sur le thème de l'archéologie: [Le MARQ](/posts/musee-marq-alicante/).
 
-## Questions fréquentes
+## Les questions qu'on s'est posées
 
 **À partir de quel âge peut-on visiter Lucentum ?**
 Dès le plus jeune âge ! C'est un site en plein air, sans barrières contraignantes. Les enfants adorent courir entre les ruines et imaginer la vie des Romains, les nôtres en tout cas ne s'en lassent pas. Les graviers de couleur au sol permettent vraiement aux plus jeunes de s'imaginer la ville.
