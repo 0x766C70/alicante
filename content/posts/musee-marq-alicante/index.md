@@ -51,7 +51,7 @@ Pour découvrir une autre sortie sur le thème de l'archéologie : [Lucentum](/p
 
 Et si vous cherchez d'autres idées pour occuper la Mifa quand le soleil tape fort : [Que faire à Alicante quand il fait (trop) chaud ?](/posts/que-faire-chaleur-alicante/)
 
-## Questions fréquentes
+## Les questions qu’on s’est posées
 
 **Le MARQ est-il adapté aux enfants ?**
 Absolument — c'est même l'un de ses plus grands atouts. La collection permanente est entièrement interactive et conçue à hauteur des enfants. Pas besoin de savoir lire ni de comprendre l'espagnol pour en profiter pleinement. Les nôtres y reviennent à chaque séjour sans jamais se lasser.
