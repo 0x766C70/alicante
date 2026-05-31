@@ -14,8 +14,7 @@ Bref, voici notre revue des endroits que nous avons aimé découvrir à Alicante
 Dans le centre-ville, découvrez sans plus attendre [Sol](https://sol-alicante.es), restaurant fusion mexicano asiatique. Gros coup de cœur ! Nous avons seulement testé la partie mexicaine et nous avons vraiment adoré. Les cocktails sont incroyables ! Il vous faudra absolument tester la margarita classique. Les tortillas qui accompagnent le guacamole sont croquantes, gourmandes et nous avons goûté des tacos avec des filets de poulet parfaitement marinés et à la cuisson impeccable pour un résultat tendre et juteux !
 {{< carousel images="gallery_sol/*" aspectRatio="21-9" interval="2500" >}}
 
-Bref, on a adoré ! Pour l’anecdote, j’ai découvert ce restaurant pendant que nous dînions en face chez [Koine](https://koine-bistro.es/) (guide Michelin) et ni une ni deux j’avais réservé pour le lendemain !
-{{< carousel images="gallery_koine/*" aspectRatio="21-9" interval="2500" >}}
+Bref, on a adoré ! Pour l’anecdote, j’ai découvert ce restaurant pendant que nous dînions en face chez [Koine](https://koine-bistro.es/) et ni une ni deux j’avais réservé pour le lendemain !
 
 Ensuite, découvrez [Los 3 carnalitos](https://los3carnalitos.com/), nous avons testé par hasard et waouh, super découverte ! Cela doit faire 6 mois que nous y sommes allés alors certains détails me manquent mais clairement c’était top ! Le personnel est adorable, c’est familial et on y mange très bien car les plats sont très savoureux.
 {{< carousel images="gallery_carnalitos/*" aspectRatio="21-9" interval="2500" >}}
