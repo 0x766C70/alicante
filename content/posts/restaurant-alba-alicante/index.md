@@ -38,22 +38,16 @@ Crédits photos : https://www.albarestaurante.es/
 
 | | |
 |---|---|
-| **Adresse** | [A COMPLETER] |
+| **Adresse** | C. de la Virgen del Socorro, 68, 03002 Alicante |
 | **Réservation** | Fortement conseillée — [albarestaurante.es](https://www.albarestaurante.es) |
 | **Prix** | Menu dégustation 37,50 € · Plats à la carte 17–22 € · Vins au verre dès 4 € |
 | **Cadre** | Idéal pour un dîner en amoureux — intime, raffiné, détendu |
-| **Transport** | [A COMPLETER] |
+| **Transport** | TRAM L3-L4-L5 — Station MARQ-Castillo |
 
 ## Les questions qu'on s'est posées
 
 **Faut-il absolument réserver ?**
-Oui, et longtemps à l'avance si possible. Ce type d'adresse affiche souvent complet plusieurs semaines en haute saison. On réserve directement sur le site officiel ou par téléphone.
+Oui, et un peu à l'avance si possible. Ce type d'adresse affiche souvent complet plusieurs semaines en haute saison. On réserve directement sur le site officiel ou par téléphone.
 
 **Le menu dégustation vaut-il vraiment le coup ?**
 Absolument. À 37,50 € pour cinq plats à ce niveau de cuisine, c'est une belle façon de découvrir l'univers d'Alba Esteve sans se ruiner. C'est aussi le format idéal pour une première visite : laissez-vous guider !
-
-**C'est quel style de cuisine ?**
-[A COMPLETER] — décrire en quelques mots le style de la chef et les plats qui vous ont le plus marqués.
-
-**L'ambiance est-elle vraiment « étoilée » ou un peu froide ?**
-C'est précisément ce qui distingue Alba : aucun formalisme excessif. On s'y sent bien, à l'aise. Les étoiles se sentent dans l'assiette, pas dans l'atmosphère.
