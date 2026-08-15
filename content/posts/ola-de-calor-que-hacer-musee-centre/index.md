@@ -1,0 +1,34 @@
++++
+title = 'Ola de calor: que faire à Alicante quand il fait trop chaud ?'
+date = 2026-04-19
+lastmod = 2026-05-28
+draft = true
+summary = "Canicule à Alicante ? Le MACA et le MUBAG, deux musées gratuits en centre-ville, sont la sortie idéale pour toute la famille. Fraîcheur et culture garanties !"
+categories = ["Vie pratique"]
+tags = ["Alicante", "musée", "chaleur", "gratuit", "famille"]
+series = ["Ola de calor"]
+series_order = 2
++++
+Ici, nous vous partagerons des idées de sorties et d'activités pour les jours où la chaleur sera trop intense (ou pour les quelques jours où la pluie s'inviterait !).
+
+
+Alicante regorge de musées très chouettes (et souvent gratuits) qui permettent d’occuper les journées où le temps ne permet pas de rester en extérieur ! C’est aussi une excellente opportunité de donner une dimension plus culturelle à votre séjour !
+
+
+En centre-ville, deux musées gratuits méritent toute votre attention :
+
+    le musée d'art contemporain (MACA) 
+    le musée des beaux-arts Gravina (MUBAG)
+
+
+{{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
+
+À quelques minutes à pied l'un de l'autre, ils proposent des collections qui se complètent et sauront à coup sûr satisfaire chacun d’entre vous.
+
+De notre expérience, ils sont assez peu fréquentés, donc la visite est très agréable. Et si la patience ou l’intérêt de vos enfants atteignent leurs limites, vous aurez tout le loisir de poursuivre ou approfondir la visite une prochaine fois, ces musées étant gratuits. 
+
+Pour une autre idée de musée, découvrez notre article sur le [MARQ](/posts/musee-marq-alicante/)
+
+{{< badge >}}
+Credits photos: wikipedia
+{{< /badge >}}

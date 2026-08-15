@@ -31,9 +31,9 @@ D'ailleurs, petit aparté, la ville regorge de parcs pour enfants et mini-aires 
 
 L'objectif de notre sortie n'était pas tellement d'échapper à la chaleur mais de faire plaisir à notre fils pour son « pré-anniversaire ».
 
-## Déjeuner Manga
+## Diner avec San Goku
 
-Donc pour le déjeuner, en grand fan de mangas qu'il est, nous sommes allés chez [Buga Ramen](https://buga-ramen.com/). C'est une mini-chaîne de restauration japonaise.
+Donc pour le diner, en grand fan de mangas qu'il est, nous sommes allés chez [Buga Ramen](https://buga-ramen.com/). C'est une mini-chaîne de restauration japonaise.
 
 {{< carousel images="gallery_buga/*" aspectRatio="16-9" interval="2500" >}}
 
