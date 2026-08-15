@@ -6,8 +6,8 @@ draft = false
 summary = ""
 categories = ["Culture & Musées", "activités", "Avec les enfants"]
 tags = ["Alicante", "musée", "fiestas", "famille"]
-series = ["Nos musées préférés" "Activiés en familles"]
-series_order = 3
+series = ["Ola de calor"]
+series_order = 1
 +++
 
 Dans ce billet, je vais vous partager un programme parfait pour une journée de forte chaleur (ou nuageuse ce qui est beaucoup plus rare).
