@@ -11,6 +11,7 @@ series_order = 1
 +++
 
 Dans ce billet, je vais vous partager un programme parfait pour une journée de forte chaleur (ou nuageuse, ce qui est beaucoup plus rare).
+
 ## Le Musée de Fogueres
 
 Rdv en centre-ville pour découvrir le [Musée de Fogueres](https://alicanteturismo.com/fr/museos/musee-fogueres/) situé à proximité de la Rambla. Ce sont les fêtes qui ont lieu au moment de la Saint-Jean. Elles sont emblématiques de la ville d'Alicante et sont même déclarées d'intérêt touristique international et bien d'intérêt culturel immatériel.
