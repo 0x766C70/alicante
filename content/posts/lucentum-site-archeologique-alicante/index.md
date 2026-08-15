@@ -43,7 +43,6 @@ Hâte de savoir ce que vous en avez pensé !
 |---|---|
 | **Adresse** | C/ Zeus, 03016, Alicante |
 | **Entrée** | 3€. (Dimanches et jours fériés 1,50 €) |
-| **Adapté aux familles** | Oui, le site est en plein air et le terrain accessible facilement (même pour les poussettes), gratuit pour les moins de 8ans |
 | **Transport** | TRAM L3 - L4 - L5 (Lucentum) |
 | **Site officiel** | [alicanteturismo.com](https://alicanteturismo.com/fr/museos/site-archeologique-de-lucentum/) |
 
