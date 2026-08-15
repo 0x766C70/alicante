@@ -1,5 +1,5 @@
 +++
-title = "Ola de calor, que hacer en Alicante ?"
+title = "Ola de calor, que hacer en Alicante ? Tout en centre ville !"
 date = 2026-08-15
 lastmod = 2026-08-15
 draft = false
