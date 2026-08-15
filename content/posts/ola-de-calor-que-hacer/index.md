@@ -14,7 +14,7 @@ Dans ce billet, je vais vous partager un programme parfait pour une journée de 
 
 Rdv en centre ville pour découvrir le [Musée de Fogueras](https://alicanteturismo.com/fr/museos/musee-fogueres/) situé à proximité de la Rambla. Ce sont les fêtes qui ont lieu au moment de la Saint Jean. Elles sont emblématiques de la ville d’Alicante et sont même déclarées d'intérêt touristique international et bien d'intérêt culturel immatériel.
 
-{{< carousel images="gallery_fog1/*" aspectRatio="16-9" interval="2500" >}}
+{{< carousel images="gallery_fog/*" aspectRatio="16-9" interval="2500" >}}
 
 C’est un musée gratuit qui met en scène différentes sculptures. C’est très impressionnant et c’est intéressant de voir les messages mis à l’honneur selon les époques et les années.
 
