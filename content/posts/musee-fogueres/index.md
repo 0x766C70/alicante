@@ -11,7 +11,12 @@ series_order = 3
 +++
 
 TO BE COMPLETED
-
+Gallery1
+{{< carousel images="gallery/*" aspectRatio="21-9" interval="2500" >}}
+Gallery2
+{{< carousel images="gallery2/*" aspectRatio="9-21" interval="2500" >}}i
+Gallery3
+{{< carousel images="gallery3/*" aspectRatio="21-9" interval="2500" >}}
 ## Infos pratiques
 
 | | |
