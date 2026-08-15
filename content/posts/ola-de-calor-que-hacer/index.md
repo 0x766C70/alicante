@@ -6,12 +6,11 @@ draft = false
 summary = ""
 categories = ["Culture & Musées", "activités", "Avec les enfants"]
 tags = ["Alicante", "musée", "fiestas", "famille"]
-series = ["Nos musées préférés"]
+series = ["Nos musées préférés" "Activiés en familles"]
 series_order = 3
 +++
 
 Dans ce billet, je vais vous partager un programme parfait pour une journée de forte chaleur (ou nuageuse ce qui est beaucoup plus rare).
-
 ## Les Musée de Fogueras
 
 Rdv en centre ville pour découvrir le [Musée de Fogueras](https://alicanteturismo.com/fr/museos/musee-fogueres/) situé à proximité de la Rambla. Ce sont les fêtes qui ont lieu au moment de la Saint Jean. Elles sont emblématiques de la ville d’Alicante et sont même déclarées d'intérêt touristique international et bien d'intérêt culturel immatériel.
