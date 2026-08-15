@@ -46,7 +46,7 @@ Pour une plus grande faim, le BARQ propose un menu chaque jour. C'est plutôt co
 | **Transport** | TRAM L3-L4-L5 — Station MARQ-Castillo |
 | **Site officiel** | [marqalicante.com](https://www.marqalicante.com/es/) |
 
-Pour découvrir une autre sortie sur le thème de l'archéologie : [Lucentum](/posts/lucentum-site-archeologique-alicante/).
+Pour découvrir une autre sortie sur le thème de l'archéologie : [Lucentum](/posts/lucentum-site-archeologique-alicante/) ou encore un [Musée dédié aux fêtes de la Saint Jean](/posts/ola-de-calor-que-faire-centre-ville).
 
 ## Les questions qu’on s’est posées
 
