@@ -12,6 +12,8 @@ series_order = 3
 
 Dans ce billet, je vais vous partager un programme parfait pour une journée de forte chaleur (ou nuageuse ce qui est beaucoup plus rare).
 
+## Les Musée de Fogueras
+
 Rdv en centre ville pour découvrir le [Musée de Fogueras](https://alicanteturismo.com/fr/museos/musee-fogueres/) situé à proximité de la Rambla. Ce sont les fêtes qui ont lieu au moment de la Saint Jean. Elles sont emblématiques de la ville d’Alicante et sont même déclarées d'intérêt touristique international et bien d'intérêt culturel immatériel.
 
 {{< carousel images="gallery_fog/*" aspectRatio="16-9" interval="2500" >}}
@@ -30,6 +32,8 @@ D’ailleurs, petit aparté, la ville regorge de parcs pour enfants et mini aire
 
 L’objectif de notre sortie n’était pas tellement d’échapper à la chaleur mais de faire plaisir à notre fils pour son « pré anniversaire ». 
 
+## Déjeuner Manga
+
 Donc pour le dîner, en grand fan de mangas qu’il est, nous sommes allés chez [Buga Ramen](https://buga-ramen.com/). C’est une mini chaîne de restauration japonaise.
 
 {{< carousel images="gallery_buga/*" aspectRatio="16-9" interval="2500" >}}
@@ -37,6 +41,8 @@ Donc pour le dîner, en grand fan de mangas qu’il est, nous sommes allés chez
 A chacune  de nos visites, c’est un succès pour nous tous. Le cadre est fun. Et même si je n’y connais rien en manga, je suis aussi émerveillée.  Les enfants se régalent et nous aussi ! Il faut compter entre 10 et 14€ pour un repas complet par personne. C’est donc une option assez raisonnable pour un dîner en ville.
 
 J’ai omis de préciser que la localisation est extrêmement centrale. 
+
+## Mini Golf Neon en famille
 
 Pour poursuivre la soirée spéciale pré anniversaire, nous sommes allés découvrir le [néon mini](https://www.neonminigolf.com/) golf situé à 5 minutes de Buga Ramen.
 
