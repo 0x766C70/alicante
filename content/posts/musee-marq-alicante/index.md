@@ -41,7 +41,7 @@ Pour une plus grande faim, le BARQ propose un menu chaque jour. C'est plutôt co
 
 | | |
 |---|---|
-| **Adresse** | Plaza Dr. Gómez Ulla s/n, 03013 Alicante |
+| **Adresse** | Plaza Dr. Gómez Ulla, 03013 Alicante |
 | **Entrée** | 5€, tarif réduit 3€ |
 | **Adapté aux familles** | Oui — tout est interactif, à partir de 3ans ils sont assez "haut" pour voir dans les vitrines|
 | **Transport** | TRAM L3-L4-L5 — Station MARQ-Castillo |
