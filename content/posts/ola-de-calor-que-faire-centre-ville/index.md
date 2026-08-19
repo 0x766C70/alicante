@@ -78,6 +78,8 @@ Donc, bilan, je recommande complètement l'activité et plus largement ce progra
 ## Les questions qu’on s’est posées
 
 **Le Musée de Fogueres est-il adapté aux enfants ?**
+Oui, les oeuvres sont à la hauteur des plus petits et pour les plus grands c'est amusant de retrouver les Ninots Indultats (nom donné aux figurines exposées) de son quartier.
 
 **À partir de quel âge peut-on jouer au Mini-Golf Neon ?**
+Nous y sommes allé tous les 5, notre petite de 5 ans s'est beaucoup amusée. Les 18 trous peuvent paraitre beaucoup mais l'ambiance fait qu´il n'y a pas de temps mort.
 
